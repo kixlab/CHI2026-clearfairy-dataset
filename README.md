@@ -1,4 +1,4 @@
-# ClearFairy Cognitive Decision Steps
+# ClearFairy 🧚 Cognitive Decision Steps
 
 A dataset of **417 inferred cognitive decision steps** from **12 designers** working on web interface design tasks in Figma. Each step pairs a concrete design action with the inferred rationale and progression behind it.
 
