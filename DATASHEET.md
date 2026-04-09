@@ -5,7 +5,7 @@ This datasheet follows the [Datasheets for Datasets](https://arxiv.org/abs/1803.
 ## Motivation
 
 **For what purpose was the dataset created?**
-The dataset was created as part of the ClearFairy research project, which studies how to capture and structure the cognitive workflow of designers as they work in Figma. The dataset releases the *inferred decision steps* that ClearFairy produces from raw Figma action logs, enabling other researchers to study designer reasoning, build models of creative cognition, or evaluate alternative rationale-inference methods.
+The dataset was created as part of the ClearFairy research project, which studies how to capture and structure the cognitive workflow of designers as they work in Figma. The dataset releases the *inferred decision steps* that ClearFairy produces from raw Figma action logs, enabling other researchers to study designer reasoning, build models of creative cognition, or evaluate alternative rationale-inference methods. Full project information is available at the project website: https://clearfairy.kixlab.org
 
 **Who created the dataset and on behalf of which entity?**
 The dataset was created by the authors of the ClearFairy paper (Son et al., CHI 2026). Corresponding author: Kihoon Son, KAIST (kihoon.son@kaist.ac.kr).
@@ -134,7 +134,7 @@ Yes — for the analysis presented in the ClearFairy paper.
 Yes. The dataset is released publicly.
 
 **How will the dataset be distributed?**
-Via a public Git repository, with a citable archive (e.g., Zenodo) planned for the camera-ready release.
+Via a public Git repository at https://github.com/kixlab/CHI2026-clearfairy-dataset, linked from the project website at https://clearfairy.kixlab.org.
 
 **When will the dataset be distributed?**
 Alongside the publication of the ClearFairy paper.

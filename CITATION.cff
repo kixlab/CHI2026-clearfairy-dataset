@@ -3,6 +3,8 @@ title: ClearFairy Cognitive Decision Steps
 message: >-
   If you use this dataset, please cite the accompanying ClearFairy paper.
 type: dataset
+url: https://clearfairy.kixlab.org
+repository-code: https://github.com/kixlab/CHI2026-clearfairy-dataset
 authors:
   - family-names: Son
     given-names: Kihoon

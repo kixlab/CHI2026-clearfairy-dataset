@@ -4,6 +4,7 @@ A dataset of **417 inferred cognitive decision steps** from **12 designers** wor
 
 This dataset accompanies the paper *ClearFairy: Capturing Creative Workflows through Decision Structuring, In-Situ Questioning, and Rationale Inference* (CHI 2026).
 
+- Project website: https://clearfairy.kixlab.org
 - Paper (arXiv preprint): https://arxiv.org/abs/2509.14537
 - Paper (ACM DOI): https://doi.org/10.1145/3772318.3791680
 
@@ -133,6 +134,10 @@ If you use this dataset, please cite the ClearFairy paper:
 ## License
 
 Released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You are free to share and adapt the dataset for any purpose, including commercial use, with attribution.
+
+## More information
+
+Full project information, demo videos, and additional materials are available on the project website: **https://clearfairy.kixlab.org**
 
 ## Contact
 
