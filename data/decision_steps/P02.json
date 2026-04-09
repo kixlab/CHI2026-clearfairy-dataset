@@ -1,0 +1,338 @@
+[
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 0,
+    "decision_and_actions": "The designer created a new frame named 'MacBook Pro 14\" - 1' in Figma, indicating the start of a new web design project.",
+    "rationale": "",
+    "progression": "By creating a new frame, the designer set up a foundational layout to begin designing the homepage, which is a logical first step in the web design process."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 1,
+    "decision_and_actions": "The designer decided to name the text element 'PI LAB' and updated its properties accordingly. Initially, the text was set with a width of 100 and a height of 50. The font size was then increased from 12 to 36 to enhance visibility. Finally, the text position was slightly adjusted on the canvas, moving it from coordinates (77, 67) to (82, 66).",
+    "rationale": "",
+    "progression": "The design process began with setting the text content and its initial dimensions. The designer then focused on enhancing the text's visibility by increasing the font size. Finally, they made minor adjustments to the text's position, indicating a refinement phase to ensure the text was well-placed within the overall layout."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 2,
+    "decision_and_actions": "The designer decided to create categories for tabs to organize information into sections. They changed the text of a tab from 'PI LAB' to 'ABOUT' to better represent the content of that section.",
+    "rationale": "",
+    "progression": "The design process progressed by establishing a clear structure for the interface, where each tab represents a distinct category of information. This change sets the foundation for a more organized and user-friendly navigation system, facilitating easier access to content."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 3,
+    "decision_and_actions": "The designer changed the text label from 'ABOUT' to 'MEMBERS' in the navigation bar. This involved updating the text properties of the element with ID '61:197' within the design frame.",
+    "rationale": "",
+    "progression": "By updating the text label to 'MEMBERS', the designer ensured that the navigation bar accurately reflects the content it links to, thereby improving the overall user experience and clarity of the interface."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 4,
+    "decision_and_actions": "The designer decided to create a new tab labeled 'NEWS&EVENT' by renaming the existing 'PUBLICATIONS' tab. This involved changing both the name and the text characters of the tab from 'PUBLICATIONS' to 'NEWS&EVENT'.",
+    "rationale": "",
+    "progression": "By renaming the tab to 'NEWS&EVENT', the designer set the stage for organizing and presenting event information more effectively. This change aligns with the goal of enhancing user engagement by offering a clear and accessible way to view news and events."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 5,
+    "decision_and_actions": "The designer adjusted the font properties of the category tabs. They changed the font from 'Inter Regular' to 'Noto Sans Display Regular' for better visual consistency. The font size was reduced from 36 to 24 pixels to improve readability and fit within the design layout. Additionally, the line height was increased from 34 to 39 pixels, and the letter spacing was adjusted from -2% to 1% to enhance text clarity and spacing.",
+    "rationale": "The primary reason for these adjustments was to improve visibility. The designer believed that even with the same content, changes in font size, weight, and spacing could significantly affect how easily the information is perceived by users. By optimizing these properties, the designer aimed to enhance the overall user experience by making the text more legible and visually appealing.",
+    "progression": "The design process progressed logically by first selecting a more suitable font that aligns with the design's aesthetic goals. Following this, the designer adjusted the font size to ensure the text was not overwhelming and fit well within the layout. The increase in line height and adjustment in letter spacing further refined the text's readability, ensuring that the information presented in the category tabs was clear and accessible to users."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 6,
+    "decision_and_actions": "The designer adjusted the vertical alignment of the text elements in the navigation bar by changing their 'y' position from 87 to 88. Additionally, the horizontal text alignment for each text element ('ABOUT', 'MEMBERS', 'RESEARCH', 'PUBLICATIONS', 'NEWS&EVENT') was changed from 'LEFT' to 'CENTER'.",
+    "rationale": "",
+    "progression": "Initially, the designer noticed a misalignment in the text elements, which prompted a reevaluation of their positions. By adjusting the vertical position slightly and centering the text horizontally, the designer improved the overall symmetry and coherence of the navigation bar, enhancing the user interface's visual appeal."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 7,
+    "decision_and_actions": "The designer adjusted the horizontal and vertical alignment of several text elements within a navigation bar. Specifically, the 'x' and 'y' positions of the text elements 'ABOUT', 'MEMBERS', 'RESEARCH', 'PUBLICATIONS', and 'NEWS&EVENT' were modified to ensure consistent spacing and alignment. The 'x' positions were increased slightly, and the 'y' positions were adjusted to align all elements at the same vertical level.",
+    "rationale": "The rationale behind these adjustments was to enhance visual consistency and user experience. Proper alignment and spacing are crucial for creating a visually appealing and user-friendly interface. By ensuring that all navigation elements are evenly spaced and aligned, the designer aimed to create a more organized and professional appearance.",
+    "progression": "The design process progressed logically from ensuring individual element alignment to achieving overall consistency across the navigation bar. By focusing on the precise positioning of each text element, the designer ensured that the navigation bar would be both aesthetically pleasing and functionally effective, contributing to a cohesive user interface."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 8,
+    "decision_and_actions": "The designer decided to replace the placeholder text 'PI LAB' with a detailed introduction about the research lab. The text was updated to describe the lab's focus on computing technology and interdisciplinary research. The designer then adjusted the text box dimensions, increasing its width from 95 to 1251 pixels and height from 84 to 193 pixels to accommodate the new content. The font size was reduced from 36 to 15 pixels, and the line height was adjusted from 34 to 21 pixels to ensure the text was displayed clearly and compactly.",
+    "rationale": "The rationale behind these changes was to provide a comprehensive introduction to the research lab on the homepage, making it informative and visually accessible. By adjusting the text properties, the designer ensured that the content was readable and fit well within the layout, enhancing the user experience by presenting the information in a clear and organized manner.",
+    "progression": "Initially, the placeholder text was replaced with a detailed introduction. The designer then resized the text box to fit the new content, ensuring it was displayed in a single view. Following this, the font size and line height were adjusted to improve readability and maintain a clean layout. These steps logically progressed from content replacement to layout optimization, resulting in a well-structured and informative homepage section."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 9,
+    "decision_and_actions": "The designer decided to update the text content to better align with the intended message and improve readability. They replaced the existing text with a new description of the PI LAB, focusing on the lab's goals and research areas. Additionally, they adjusted the line height from a fixed pixel value to 'AUTO' and changed the letter spacing from -2% to 0% to enhance text clarity and visual balance.",
+    "rationale": "",
+    "progression": "The design process progressed by refining the textual content to ensure it fits well within the layout while maintaining readability. The adjustments to line height and letter spacing helped achieve a cleaner and more professional appearance, aligning the text with the overall design aesthetic."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 10,
+    "decision_and_actions": "The designer decided to emphasize important content on the webpage to improve visibility and user accessibility. This was done by adjusting the position of the text block slightly, moving it from x-coordinate 76 to 87, while keeping the y-coordinate constant. The designer also made changes to the text properties, likely to enhance emphasis, although the specific changes to text style are not detailed in the logs.",
+    "rationale": "",
+    "progression": "The design process progressed by first identifying the key content that needed emphasis. The designer then made subtle adjustments to the text's position and properties to make it stand out more on the page. This step was part of a broader strategy to improve the interface's usability by ensuring that essential information is easily accessible to users."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 11,
+    "decision_and_actions": "The designer decided to enhance the visibility of important text by adding emphasis. They adjusted the text properties by adding line breaks to create more space and improve readability. Additionally, they moved the text block slightly to better align it within the layout and adjusted its width and height to fit the design more cohesively.",
+    "rationale": "The rationale behind these actions was to improve the visual hierarchy and ensure that key information stands out to the viewer. By emphasizing important sections, the designer aimed to guide the user's attention to critical content, enhancing the overall user experience and making the interface more intuitive.",
+    "progression": "The design process progressed logically by first identifying the need for emphasis on important text. The designer then implemented changes to the text properties, such as adding line breaks and adjusting the text block's position and size. These steps collectively contributed to a more organized and visually appealing layout, ensuring that the key messages are easily noticeable and accessible to users."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 12,
+    "decision_and_actions": "The designer adjusted the position of a text element on the webpage to make it more prominent. Specifically, the text block was moved vertically from a y-coordinate of 227 to 459 and horizontally from an x-coordinate of 202 to 102. Additionally, a new text element was created to further emphasize the content related to recruiting collaborators and a postdoctoral researcher.",
+    "rationale": "The rationale behind these adjustments was to enhance the visibility of important information on the webpage, particularly the recruitment details. By repositioning and emphasizing these elements, the designer aimed to ensure that visitors could easily notice and access the recruitment information, which is crucial for engaging potential collaborators and candidates.",
+    "progression": "The design process progressed by first identifying the need to highlight recruitment information on the webpage. The designer then took specific actions to reposition and create text elements, ensuring that the key information was prominently displayed. This logical progression from identifying a need to implementing changes helped achieve the goal of improving information visibility."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 13,
+    "decision_and_actions": "The designer decided to change the button color to a more subdued tone. This action involved selecting the button element in Figma and adjusting its color properties to achieve a less striking appearance. The designer aimed to ensure that the button did not stand out excessively and harmonized with the overall design palette.",
+    "rationale": "The rationale behind changing the button color was to maintain visual consistency and enhance the user experience. The designer felt that the current button color was too prominent and could distract users from other elements on the page. By opting for a more subdued color, the designer intended to create a more cohesive and visually appealing interface.",
+    "progression": "The design process progressed logically from addressing the button's color to ensure it aligned with the overall design aesthetics. This decision was part of a broader effort to maintain visual consistency across the interface, similar to previous adjustments made to the alignment of category tabs. By refining the button's appearance, the designer continued to enhance the interface's visual harmony and user experience."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 14,
+    "decision_and_actions": "The designer decided to adjust the text size on the web interface. They identified that the current text size was too small, which negatively impacted readability. The designer increased the text size to enhance the visibility and clarity of the information presented on the interface.",
+    "rationale": "The rationale behind adjusting the text size was to improve readability. The designer recognized that the small text size made it difficult for users to read and comprehend the information, which could hinder user experience. By increasing the text size, the designer aimed to make the content more accessible and easier to understand for users.",
+    "progression": "The design process progressed logically as the designer first identified the issue with the text size affecting readability. They then took action by increasing the text size, which directly addressed the problem. This adjustment was part of a broader effort to enhance the overall user experience by ensuring that the interface was both visually appealing and functional."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 15,
+    "decision_and_actions": "The designer decided to refine the layout to enhance the overall design consistency and user experience. This involved organizing elements on the page to ensure a cohesive and visually appealing interface. The designer likely adjusted the alignment, spacing, and positioning of components to achieve a balanced and orderly layout.",
+    "rationale": "The rationale behind refining the layout was to improve the design's consistency and enhance the user experience. By organizing the layout, the designer aimed to create a more intuitive and aesthetically pleasing interface, which would make it easier for users to navigate and interact with the web page.",
+    "progression": "After adjusting the button color and text size for better visibility and readability, the designer focused on the layout. This logical progression ensured that the visual elements were not only individually optimized but also harmoniously integrated into the overall design. By finalizing the layout, the designer completed the design process, ensuring that all elements worked together to provide a seamless user experience."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 16,
+    "decision_and_actions": "The designer adjusted the dimensions of the 'Join Us' section, changing its height from 186 to 228 and width from 1240 to 557. Additionally, the position of this section was moved from coordinates (102, 704) to (458, 185).",
+    "rationale": "The adjustments were likely made to better integrate the 'Join Us' section into the overall layout, ensuring it is prominently displayed and easily accessible to users interested in joining the lab. The resizing and repositioning help in aligning the section with the design's visual hierarchy and spatial organization.",
+    "progression": "By resizing and repositioning the 'Join Us' section, the designer improved the interface's clarity and focus, making it more inviting for potential applicants. This step logically follows the goal of enhancing the lab's promotional efforts and recruitment process by making key information more visible and engaging."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 17,
+    "decision_and_actions": "The designer decided to add recent publication sources to the 'Join Us' page to enhance user experience. They created text elements for four publications, each detailing the title, authors, and conference information. The designer adjusted the positioning and alignment of these text elements to ensure they were visually coherent and accessible on the page.",
+    "rationale": "",
+    "progression": "The design process progressed by first creating the text elements for each publication. The designer then carefully adjusted their positions to ensure they were well-organized and aligned with the existing content on the page. This methodical approach ensured that the publications were prominently displayed and easily accessible to users, aligning with the goal of improving user interaction with the page."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 18,
+    "decision_and_actions": "The designer adjusted the text layout for 'Publication 2' by changing the format from a single line to a more structured format. This involved separating the title and conference details with a comma and ensuring the authors and conference information were clearly delineated.",
+    "rationale": "The designer aimed to improve readability by breaking down the information into more digestible parts. By separating the title and conference details, the designer ensured that each piece of information was distinct and easier to read, thus enhancing the overall user experience.",
+    "progression": "This decision led to a more organized presentation of publication details, making it easier for users to quickly identify and understand the key information. The structured format aligns with the overall design goal of clarity and accessibility in the web interface."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 19,
+    "decision_and_actions": "The designer updated the text content of a publication entry. Specifically, they changed the name and characters properties of the text node. The old value included a detailed title and author list, while the new value streamlined the information to focus on the authors and the title of the publication, 'Enhancing Classroom Feedback through Conversational Agents: A UX Perspective,' along with the conference details 'AdaptUI 2023 – International Conference on Adaptive Interfaces.'",
+    "rationale": "",
+    "progression": "This decision streamlined the publication section, aligning it with a more user-friendly format. By reducing the amount of text and focusing on key information, the designer improved the overall coherence and accessibility of the content, which is crucial for maintaining user engagement and ensuring that important details are easily accessible."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 20,
+    "decision_and_actions": "The designer adjusted the dimensions of the 'Publication' text element, changing its width from 656 to 255 and its height from 161 to 50. This was done to fit the text into a single line, enhancing its visibility and alignment with the icon.",
+    "rationale": "The decision to use an icon alongside the 'Publication' text and to adjust its size was aimed at emphasizing the publication section on the title page. By presenting the text in a single line, the designer intended to improve readability and draw attention to this section.",
+    "progression": "The design process progressed by refining the layout to ensure that key elements like the 'Publication' section are both visually appealing and easy to read. The use of an icon and the adjustment of text dimensions helped achieve a cleaner and more focused presentation."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 21,
+    "decision_and_actions": "The designer decided to create a category to improve user navigation by effectively organizing content. They adjusted the width of the 'Publication' text from 656 to 89 and the height from 161 to 28. The text alignment was changed from left to center. The position of the text was moved slightly, with the x-coordinate changing from 187 to 178 and the y-coordinate from 675 to 744. The font size was increased from 12 to 24, and the width was further adjusted from 89 to 174, with the height changing from 28 to 30.",
+    "rationale": "The rationale behind these changes was to enhance the visual hierarchy and clarity of the interface, making it easier for users to navigate and find information. By creating a distinct category, the designer aimed to improve the organization of content, which is crucial for user experience.",
+    "progression": "The design process progressed logically by first resizing the text to fit the desired layout, then centering it to improve alignment and visual balance. The position adjustments ensured the text was placed appropriately within the frame. Increasing the font size made the category more prominent, enhancing its visibility and importance on the page."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 22,
+    "decision_and_actions": "The designer increased the font size of the title text from 12 to 15. This change was applied to the text node with the ID '62:228', which is part of a group of text elements within a frame.",
+    "rationale": "The rationale behind increasing the font size was to make the title more prominent on the page. By enlarging the text, the designer aimed to ensure that the title stands out, making it easier for users to recognize and focus on it quickly.",
+    "progression": "The design process progressed by enhancing the visual hierarchy of the page. By adjusting the font size of the title, the designer improved the overall readability and user experience, ensuring that important information is easily accessible and noticeable to users."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 23,
+    "decision_and_actions": "The designer decided to center-align the list for better visual balance and to display only the latest three to four items initially. They also considered adding images to enhance the introduction section and planned to source suitable images.",
+    "rationale": "Center-aligning the list ensures that it is visually balanced and easy to read. Limiting the number of items displayed initially prevents overwhelming the user with too much information at once. Adding images to the introduction section can make the content more engaging and visually appealing, helping to convey information more effectively.",
+    "progression": "The design process progressed by first ensuring the list was visually balanced through center alignment. The designer then focused on content management by limiting the number of visible items to maintain clarity. Finally, they planned to enhance the introduction section with images, indicating a move towards a more visually engaging design."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 24,
+    "decision_and_actions": "The designer decided to add more background to the existing layout. This was done to ensure that the imported image fits well within the grid and the overall layout is visually balanced.",
+    "rationale": "",
+    "progression": "The design process progressed by adjusting the background to accommodate the image, ensuring that all elements are well-aligned and the layout maintains a professional appearance. This step was crucial for achieving a balanced and visually appealing interface."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 25,
+    "decision_and_actions": "The designer decided to expand the background and set it using a 'spider' theme to maintain visual consistency and enhance user experience. They changed the background color of 'Rectangle 1' from a light gray to a dark blue, adjusted the width from 742 to 726, and repositioned it from x: -16 to x: 0. Additionally, the 'Join Us' text was moved slightly to the left and upwards to ensure it was naturally visible alongside the new background.",
+    "rationale": "The decision to use a 'spider' theme and adjust the background was aimed at maintaining visual consistency across the design. By using a darker color, the designer intended to create a more cohesive and engaging visual experience. The repositioning of the 'Join Us' text was to ensure it remained prominent and naturally integrated with the new background layout.",
+    "progression": "The design process progressed logically by first establishing a consistent background theme, which set the tone for the rest of the interface. Adjusting the background color and size ensured that the design elements were aligned and visually appealing. The repositioning of text elements followed, ensuring that all components were harmoniously integrated into the new design framework."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 26,
+    "decision_and_actions": "The designer created a rectangle named 'Rectangle 1' to serve as a background element. Initially, the rectangle was positioned at coordinates (148, 190) and later moved to (726, 179). The rectangle's width was adjusted from 726 to 791, and its color was changed from a dark blue to white. The rectangle was then renamed to 'Rectangle 2' and repositioned multiple times to achieve the desired layout.",
+    "rationale": "",
+    "progression": "The design process began with the creation of a rectangle to define the background area. The designer adjusted its position and size to fit the layout requirements. The color change to white was crucial for maintaining consistency with the overall design theme. The rectangle's final adjustments in position and size ensured it aligned correctly with the surrounding elements, completing the background setup for the 'Join Us' section."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 27,
+    "decision_and_actions": "The designer decided to incorporate an image that effectively represents the lab's work directly onto the webpage. To achieve this, they adjusted the image's position by changing its 'y' coordinate from 341 to 512 and its 'x' coordinate from -348 to -251, ensuring it fits well within the page layout.",
+    "rationale": "The image was chosen because it serves as a representative visual of the lab's activities, making it a valuable addition to the webpage. By adjusting the image's position, the designer aimed to integrate it seamlessly into the existing layout, enhancing the page's visual communication.",
+    "progression": "The design process progressed by first identifying a key visual element that represents the lab's work. The designer then focused on spatial adjustments to incorporate the image into the webpage, ensuring alignment and proper placement to maintain a cohesive and informative design."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 28,
+    "decision_and_actions": "The designer increased the vertical spacing at the bottom of the page to accommodate an image. This involved adjusting the 'y' position of the image from 512 to 321 and expanding the frame height from 982 to 1499 to ensure the image fits well within the layout.",
+    "rationale": "The designer aimed to maintain the visual balance of the page by effectively integrating the image. By increasing the spacing, the designer ensured that the image could be placed without disrupting the existing layout, thus preserving the overall aesthetic and functionality of the page.",
+    "progression": "Initially, the designer identified the need for more space to insert the image. By adjusting the frame's height and repositioning the image, the designer successfully integrated the image into the page, achieving a harmonious layout that accommodates all elements effectively."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 29,
+    "decision_and_actions": "The designer adjusted the alignment of images on the webpage. Specifically, the x and y coordinates of 'image 2' were changed from -352, 803 to -107, 311, and its parent frame was updated. Similarly, 'image 3' and 'image 4' were repositioned to align with the new layout, ensuring they are visually consistent within the frame.",
+    "rationale": "Aligning images is crucial for maintaining a visually consistent and user-friendly design. Proper alignment helps in creating a cohesive look, making the interface more intuitive and aesthetically pleasing for users.",
+    "progression": "The design process progressed by first identifying the need for alignment to enhance visual consistency. The designer then methodically adjusted the positions of the images, ensuring they were properly aligned within the frame, which improved the overall layout and user experience."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 30,
+    "decision_and_actions": "The designer adjusted the vertical and horizontal alignment of several elements to ensure consistent spacing and alignment. Specifically, the 'y' position of a text element was changed from 546 to 732, and the 'x' positions of multiple images were adjusted to align them properly within the frame. The designer also made fine adjustments to the 'y' positions of images to ensure they were evenly aligned.",
+    "rationale": "The designer emphasized the importance of maintaining consistent spacing and alignment to create a visually appealing and organized layout. By adjusting the positions of text and images, the designer aimed to achieve a balanced and harmonious design that enhances readability and user experience.",
+    "progression": "Initially, the designer identified misalignments in the layout. They proceeded to adjust the positions of text and images, checking the alignment in real-time. Through iterative adjustments, the designer achieved a consistent and well-aligned layout, ensuring that all elements were properly spaced and aligned within the frame."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 31,
+    "decision_and_actions": "The designer adjusted the size of several design elements, specifically rectangles labeled as images 2, 3, 4, and 5. The width and height of these elements were increased from 202 to 270 units. Additionally, the x and y positions of these elements were adjusted to ensure proper alignment within the frame.",
+    "rationale": "The primary reason for resizing these elements was to improve user readability and maintain design balance. By increasing the size, the designer aimed to enhance the visual impact and ensure that the elements were proportionate to the surrounding text and layout.",
+    "progression": "Initially, the designer made minor adjustments to the size and position of individual elements to test the impact on the overall layout. After confirming the need for larger adjustments, the designer uniformly increased the size of all related elements, ensuring consistency and alignment across the design. This step-by-step approach allowed for a controlled enhancement of the interface's visual hierarchy."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 32,
+    "decision_and_actions": "The designer adjusted the position of 'Rectangle 3' by changing its x-coordinate from 20 to 0 and its y-coordinate from 1015 to 1011.",
+    "rationale": "",
+    "progression": "By repositioning 'Rectangle 3', the designer improved the alignment and overall aesthetics of the interface, contributing to a more polished and professional design."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 33,
+    "decision_and_actions": "The designer adjusted the layout of the web interface by modifying the dimensions and positions of various elements. Specifically, the height of 'Rectangle 3' was reduced from 241 to 234, and its vertical position was adjusted. The 'Publication' text element was moved down slightly. The height of the text block describing the PI Lab was increased, and its horizontal alignment was changed from center to left. The width of this text block was also reduced. Additionally, 'Rectangle 4' was resized and repositioned multiple times to better fit the layout.",
+    "rationale": "",
+    "progression": "The design process progressed logically by first addressing the size and position of key elements to establish a balanced layout. The designer then focused on text alignment and size to ensure readability and coherence. These adjustments were made iteratively, with each change building upon the previous ones to refine the overall design."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 34,
+    "decision_and_actions": "The decision step provided does not contain any specific design decisions or actions taken by the designer. It appears to be a question or a prompt rather than a detailed design step.",
+    "rationale": "",
+    "progression": "Without specific design actions or decisions in the provided step, there is no progression in the design process to describe. The step seems to be more about project management or time estimation rather than a design progression."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 35,
+    "decision_and_actions": "The designer increased the font size of the 'Join Us' text and expanded the text box width from 557 to 685 to prevent text truncation. This adjustment was made to enhance the visibility and readability of the text.",
+    "rationale": "The rationale behind these changes was to improve the visibility and ensure that important information is easily recognizable by users. By enlarging the text and adjusting the text box, the designer aimed to prevent any text from being cut off, thereby enhancing the overall user experience.",
+    "progression": "Initially, the text was not fully visible due to the constraints of the text box. By increasing the text box size and font, the designer ensured that all content was displayed clearly, allowing users to access the information without any hindrance. This step logically progressed the design towards a more user-friendly interface."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 36,
+    "decision_and_actions": "The designer adjusted the vertical positioning of the 'Publication' and 'Introduction' text boxes to create a clear visual separation between the two sections. Specifically, the 'Publication' text box was moved from a y-coordinate of 1114 to 1035, and other related text elements were similarly adjusted to maintain alignment and spacing.",
+    "rationale": "The separation of the 'Publication' and 'Introduction' sections was intended to enhance the user's ability to easily distinguish between different content areas. By creating a clear visual distinction, the designer aimed to improve the overall readability and user experience of the interface.",
+    "progression": "The design process progressed by first identifying the need for clearer separation between content sections. The designer then executed precise adjustments to the positioning of text elements, ensuring that the layout was both visually appealing and functionally effective in guiding the user's attention to distinct content areas."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 37,
+    "decision_and_actions": "The designer adjusted the background color of a rectangle to align with the grid, changing its color from white to a light pink shade. This action was taken to ensure that the background elements are visually consistent across the design.",
+    "rationale": "Aligning the background elements is crucial for maintaining visual consistency and enhancing the user experience. By ensuring that the backgrounds are aligned, the designer aimed to create a cohesive and professional appearance, which helps users navigate the interface more intuitively.",
+    "progression": "The design process progressed by focusing on visual alignment and consistency. After creating the grid, the designer ensured that the background elements matched in position and color, which logically followed the initial setup of the grid to enhance the overall design coherence."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 38,
+    "decision_and_actions": "The designer adjusted the vertical positions of several elements to align the backgrounds within the grid. Specific changes included moving elements with IDs such as '63:5', '62:248', '63:2', and others by 5 units each to ensure consistent spacing and alignment.",
+    "rationale": "Aligning the backgrounds is crucial for maintaining visual consistency and enhancing user experience. By ensuring that elements are evenly spaced and aligned, the designer aimed to create a more cohesive and aesthetically pleasing interface.",
+    "progression": "The design process progressed by systematically adjusting the vertical positions of elements to achieve uniform alignment. This step ensured that the grid layout was visually balanced, contributing to a more professional and polished appearance of the web interface."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 39,
+    "decision_and_actions": "The designer adjusted the vertical alignment of multiple background elements to ensure consistency and alignment within the grid. Specifically, the 'y' positions of several text and rectangle elements were incrementally adjusted by 2 units to align them properly within the design frame.",
+    "rationale": "The designer emphasized the importance of maintaining alignment and consistency across elements to uphold the overall visual structure and coherence of the design. By aligning the backgrounds, the designer aimed to create a harmonious and organized layout that enhances the readability and aesthetic appeal of the interface.",
+    "progression": "After creating the grid, the designer focused on aligning the background elements to ensure they matched vertically. This step was crucial for maintaining the design's consistency and visual flow, which had been a recurring theme in the designer's previous decisions. The adjustments made to the 'y' positions of the elements reflect a methodical approach to achieving a balanced and structured layout."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 40,
+    "decision_and_actions": "The designer created a new rectangle (initially named 'Rectangle 2' and later renamed to 'Rectangle 3') to serve as a background for text that was not clearly visible. The rectangle was initially created and then repositioned from coordinates (709, 249) to (49, 674). The designer adjusted the rectangle's dimensions, changing its width from 786 to 1372 and its height from 312 to 251, and later to 168. The final position was adjusted to (60, 854).",
+    "rationale": "The primary reason for adding the rectangle was to enhance the visibility of the text by providing a contrasting background. This decision was made because the text was difficult to read against the existing background, and adding a solid background would improve legibility.",
+    "progression": "The design process progressed logically by first creating a new rectangle to address the visibility issue. The designer then adjusted the position and size of the rectangle to ensure it effectively covered the text area, providing the necessary contrast to make the text readable. These adjustments were made iteratively, refining the placement and dimensions to achieve the desired visual outcome."
+  },
+  {
+    "participant_id": "P02",
+    "task_type": "lab_website",
+    "step_index": 41,
+    "decision_and_actions": "The designer adjusted the position of text elements and added a background rectangle to enhance text visibility. Specifically, the text elements with IDs '63:5' and '62:214' were moved slightly upwards to align better with the background. A new rectangle (ID '63:9') was added as a background to improve the readability of the text.",
+    "rationale": "The main rationale was to improve user experience by ensuring that the text is easily readable. By adding a background and adjusting the text position, the designer aimed to increase the visibility and contrast of the text against the background, making it easier for users to read and understand the content.",
+    "progression": "Initially, the text elements were not optimally visible, prompting the designer to adjust their positions. The addition of a background rectangle further enhanced the text's readability. These changes collectively improved the interface's usability by ensuring that important information is clearly presented to users."
+  }
+]

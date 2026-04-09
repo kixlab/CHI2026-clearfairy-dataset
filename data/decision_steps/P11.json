@@ -1,0 +1,362 @@
+[
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 0,
+    "decision_and_actions": "The designer selected a basic desktop frame from the desktop menu in Figma to start designing an e-commerce webpage. This action involved creating a new frame labeled 'Desktop - 1'.",
+    "rationale": "The choice of a basic desktop frame was driven by its versatility and the fact that specific size constraints are less critical in web design. The designer aimed for a standard starting point that would be broadly applicable.",
+    "progression": "By selecting a standard desktop frame, the designer established a foundational layout for the e-commerce webpage. This decision set the stage for further design elements to be added, ensuring a consistent and adaptable framework for the project."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 1,
+    "decision_and_actions": "The designer decided to create the header using Figma's built-in guides to establish the initial layout. They chose to use these guides instead of shapes or frames to avoid confusion when the design becomes more complex with additional components.",
+    "rationale": "The rationale behind using Figma's guides is to maintain clarity and simplicity in the design process. Using shapes or frames could lead to confusion about their purpose as the design evolves, especially when multiple components are added.",
+    "progression": "By setting the header's position with guides, the designer established a clear and organized starting point for the layout. This decision helps ensure that the design remains manageable and understandable as more elements are introduced."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 2,
+    "decision_and_actions": "The designer created a text element within the header frame and named it 'TRAVELO'. The text element's dimensions were adjusted, changing the width from 270 to 354 and the height from 81 to 71. The position of the text was also modified, moving it from coordinates (466, 0) to (529, 29).",
+    "rationale": "",
+    "progression": "By creating and positioning the text element, the designer set the foundation for the header. This step logically follows the initial decision to focus on the header's simplicity and functionality, allowing for further design elements to be added around this central text."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 3,
+    "decision_and_actions": "The designer decided to use a monospaced font, 'Roboto Mono', for the text element labeled 'TRAVELO'. This involved changing the font from 'Roboto Regular' to 'Roboto Mono Regular'. Additionally, the designer adjusted the alignment and added a rounded end to the text to create a 'hamburger' look.",
+    "rationale": "The choice of a monospaced font was driven by the desire to create a modern aesthetic for the webpage. The designer preferred 'Roboto Mono' over serif fonts, which tend to convey a more antique feel. The monospaced font was chosen for its simplicity and ability to eliminate unnecessary elements, aligning with the modern design goal.",
+    "progression": "By selecting 'Roboto Mono', the designer established a modern typographic style that set the tone for the rest of the design. This decision was part of a broader effort to create a clean and contemporary look, which was further enhanced by the alignment and styling adjustments made to the text."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 4,
+    "decision_and_actions": "The designer adjusted the text alignment and size for the element labeled 'TRAVELO'. Initially, the text was misaligned, so the designer changed the vertical alignment from 'TOP' to 'CENTER' and the horizontal alignment from 'LEFT' to 'CENTER'. Additionally, the width of the text box was modified from 354 to 623 to better fit the text content.",
+    "rationale": "The adjustments were made to enhance the visual balance of the webpage and ensure that the content is easily readable for users. Centering the text both vertically and horizontally creates a more aesthetically pleasing and organized layout.",
+    "progression": "By centering the text and adjusting the width, the designer improved the overall alignment and presentation of the text element. This step logically follows the designer's goal of achieving a modern and user-friendly interface, setting a foundation for further design enhancements."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 5,
+    "decision_and_actions": "The designer decided to adjust the font size of the header text 'TRAVELO' from 64 to 52 to achieve a trendy and filled look. This change was accompanied by repositioning the text horizontally from x: 793 to x: 595 and vertically from y: 176 to y: 30, as well as adjusting the width from 308 to 250 to maintain alignment and spacing within the layout.",
+    "rationale": "",
+    "progression": "The design process progressed by refining the header's typography to align with the desired aesthetic of the website. By adjusting the font size and repositioning the text, the designer ensured that the header text was visually appealing and well-integrated into the overall layout. This step was part of a broader effort to establish a cohesive and modern design language for the web interface."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 6,
+    "decision_and_actions": "The designer decided to enhance the header by adding a colored rectangle to make it visually appealing. They created a rectangle shape, aligned it centrally, and adjusted its dimensions to fit the header area. The rectangle's color was changed to a light gray to provide a subtle yet distinct background for the header text.",
+    "rationale": "The addition of color to the header was intended to create a visually attractive and distinguishable element, improving the user experience by making the header stand out. The choice of a light gray color was likely to maintain a modern and clean aesthetic while ensuring the text remains readable.",
+    "progression": "Initially, the designer focused on aligning the text and then realized the need for a more visually engaging header. By adding and adjusting the rectangle, they successfully created a balanced and appealing header design, setting the stage for further enhancements in the web interface."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 7,
+    "decision_and_actions": "The designer decided to set the overall color scheme of the website to gray and red. This involved changing the text color of the header element 'TRAVELO' to a red hue with RGB values of (1, 0.3018, 0.3018).",
+    "rationale": "The choice of gray and red was made to maintain visual consistency across the website and to provide a strong, modern aesthetic. The red color in the header text helps to emphasize key visual elements, aligning with the designer's intent to create a striking and contemporary look.",
+    "progression": "By establishing a consistent color scheme, the designer ensured that the website's visual elements are cohesive. The decision to use red for the header text complements the previously added header shape, enhancing the overall design and setting a foundation for further design elements to be added in the same color palette."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 8,
+    "decision_and_actions": "The designer decided to incorporate icons into the web interface. Specifically, they added familiar icons such as a hamburger menu icon and a shopping cart icon. These icons were chosen to replace text labels for menu and cart functionalities, aiming to enhance the interface's intuitiveness and user-friendliness.",
+    "rationale": "The rationale behind adding icons was to leverage users' familiarity with common interface elements. The designer noted that users are already accustomed to recognizing and understanding icons like the hamburger menu and shopping cart. By using these icons instead of text, the designer aimed to create a more intuitive and visually appealing interface, enhancing user experience by reducing cognitive load and making navigation more straightforward.",
+    "progression": "The design process progressed from considering the overall aesthetic and layout of the web interface to focusing on user interaction elements. After establishing a modern and trendy look with typography and color choices, the designer shifted attention to functional elements that improve usability. By integrating familiar icons, the designer ensured that the interface not only looked appealing but also functioned effectively, aligning with the goal of creating a user-friendly design."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 9,
+    "decision_and_actions": "The designer decided to create a hamburger icon manually instead of using a pre-existing PNG. They started by creating a frame with dimensions 80x80 to contain the icon. Within this frame, they added three lines to represent the hamburger icon. Each line was adjusted to have a width of 58 and a stroke weight of 3. The lines were aligned vertically and spaced evenly. Finally, the stroke caps of the lines were set to 'ROUND' to enhance the hamburger icon's appearance.",
+    "rationale": "The designer chose to create the hamburger icon manually because they couldn't find a suitable PNG that met their design preferences. By creating the icon themselves, they had full control over its appearance, ensuring it fit well within the design's overall aesthetic. Using a frame allowed for easy resizing and alignment, while adjusting the stroke weight and caps provided a more polished and recognizable hamburger icon.",
+    "progression": "The design process began with setting up a frame to contain the icon, ensuring it could be easily adjusted in size. The designer then created and positioned three lines within the frame, adjusting their width and stroke weight to achieve the desired look. By setting the stroke caps to 'ROUND', the designer added a finishing touch that made the icon visually appealing and consistent with common design standards for hamburger icons."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 10,
+    "decision_and_actions": "The designer adjusted the alignment of three lines, identified as Line 1, Line 2, and Line 3, to create a hamburger menu icon. The lines were moved horizontally from an x-coordinate of 448 to 419 and vertically adjusted to new y-coordinates, aligning them more closely. Additionally, the designer increased the thickness of the lines to 3 and applied rounded ends to enhance the visual resemblance to a hamburger menu.",
+    "rationale": "",
+    "progression": "Initially, the lines were misaligned and thinner, which did not effectively convey the intended hamburger menu icon. By adjusting the alignment and thickness, the designer successfully transformed the lines into a cohesive and functional UI element, progressing the design towards a more intuitive navigation interface."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 11,
+    "decision_and_actions": "The designer identified that the text labels for categories did not appear interactive. To address this, they decided to apply an auto layout to each text element. This involved changing the text from 'GIFT CARD' to 'ACCESSORIES' and adjusting the width from 130 to 159 to accommodate the new text. The auto layout was used to ensure that the text elements would automatically adjust their size based on the content, making them appear more like interactive buttons.",
+    "rationale": "The rationale behind this decision was to enhance the user interface by making the text elements look more like buttons, which users would recognize as interactive elements. By using auto layout, the designer ensured that the text elements would dynamically adjust their size, maintaining a consistent and visually appealing design that suggests interactivity.",
+    "progression": "The design process progressed by first identifying the need for the text elements to appear interactive. The designer then implemented auto layout to achieve this, allowing the text elements to resize automatically. This change not only improved the visual appeal but also enhanced the usability of the interface by clearly indicating which elements were interactive."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 12,
+    "decision_and_actions": "The designer applied auto layout to each text element individually. This involved creating a new frame and adjusting the position of the text elements within it. The auto layout feature was used to ensure that the spacing around the text adjusts automatically as the text size changes, giving the appearance of buttons.",
+    "rationale": "The rationale behind using auto layout was to create a responsive design where the spacing around text elements adjusts dynamically. This approach helps in maintaining a consistent visual appearance, especially when text sizes change, making the elements look like interactive buttons.",
+    "progression": "By applying auto layout, the designer ensured that the text elements would automatically adjust their spacing, enhancing the visual consistency and interactivity of the design. This step was crucial in progressing towards a more dynamic and user-friendly interface."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 13,
+    "decision_and_actions": "The designer applied an auto layout to the text elements, which automatically adjusts the size of the surrounding box based on the text size. They also added a solid fill color to the frames, making them appear more like buttons.",
+    "rationale": "The use of auto layout enhances design efficiency by allowing the box to resize automatically with text changes, ensuring consistent spacing and alignment. Adding a fill color gives the text elements a button-like appearance, improving user interaction cues.",
+    "progression": "By implementing auto layout, the designer ensured that any changes in text size would be accommodated without manual adjustments. The addition of a fill color not only improved the visual appeal but also provided a clear indication of interactivity, aligning with the overall design goal of creating a user-friendly interface."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 14,
+    "decision_and_actions": "The designer adjusted the horizontal padding of the buttons to ensure they are more noticeable and clickable. Initially, the padding was set to 10 on all sides, but the designer felt this was insufficient for the horizontal padding. They increased the left and right padding to 16 and 28, respectively, to provide more space around the text within the buttons.",
+    "rationale": "The rationale behind increasing the horizontal padding was to enhance user experience by making the buttons more prominent and easier to interact with. Adequate padding ensures that buttons are easily recognizable and clickable, which is crucial for maintaining visual balance and improving usability.",
+    "progression": "After identifying the need for more horizontal space, the designer adjusted the padding values, which resulted in a more balanced and user-friendly button design. This change was part of a broader effort to refine the interface's layout, ensuring that all elements are well-aligned and visually appealing."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 15,
+    "decision_and_actions": "The designer adjusted the left and right padding of multiple text frames to 28 pixels, increasing from the previous 10 pixels. This change was applied to ensure consistent spacing across all text elements. Additionally, the designer used Auto Layout to maintain uniform spacing between the text frames, setting the horizontal padding to 16 and 28 pixels.",
+    "rationale": "The decision to increase the padding and use Auto Layout was aimed at enhancing visual balance and readability. By ensuring consistent spacing, the interface becomes more organized, making it easier for users to perceive and interact with the elements.",
+    "progression": "Initially, the text frames had inconsistent padding, which could lead to a cluttered appearance. By adjusting the padding and applying Auto Layout, the designer achieved a more cohesive and visually appealing layout. This step logically followed the need for a cleaner and more user-friendly interface, aligning with the overall design goals."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 16,
+    "decision_and_actions": "The designer adjusted the item spacing to 18 and applied a fully rounded corner to the elements. This was done to create a softer, more visually appealing interface. The designer also repositioned several frames to ensure consistent spacing and alignment across the interface.",
+    "rationale": "The decision to set the spacing to 18 and add rounded corners was aimed at enhancing the user interface's familiarity and visual appeal. By making the elements resemble a hamburger menu icon, the designer intended to create a more intuitive and user-friendly experience.",
+    "progression": "The design process progressed by first adjusting the spacing and rounding the corners to achieve a softer look. The designer then ensured that all elements were consistently aligned and spaced, contributing to a cohesive and aesthetically pleasing interface."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 17,
+    "decision_and_actions": "The designer began by setting up the framework for displaying the main products. They adjusted the position of 'Frame 7' by changing its x-coordinate from 311 to 310 and its y-coordinate from 111 to 126. The padding and height of the frame remained unchanged.",
+    "rationale": "",
+    "progression": "By adjusting the frame's position, the designer laid the groundwork for the product display. This step is part of a larger process to determine the overall layout, which will be revisited for further refinement and detailed explanation."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 18,
+    "decision_and_actions": "The designer initially attempted to apply a large corner radius to the entire frame, which resulted in an unintended effect. They corrected this by individually selecting each category frame and setting the corner radius to 100, creating a rounded appearance for each category button.",
+    "rationale": "The designer aimed to create a softer, more approachable user interface by rounding the corners of the category buttons. This decision was intended to enhance the user experience by making the interface appear more friendly and visually appealing.",
+    "progression": "After realizing the initial mistake of applying the corner radius to the entire frame, the designer adjusted their approach by individually selecting each category button. This allowed them to achieve the desired rounded effect, aligning with their goal of improving the interface's aesthetic and user experience."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 19,
+    "decision_and_actions": "The designer reduced the font size of the text elements from 24 to 18 and adjusted their widths accordingly. Additionally, the text color was changed from black to a softer gray tone (RGB: 145, 145, 145).",
+    "rationale": "The adjustments were made to enhance visual balance and improve readability. By reducing the font size, the text elements became more proportionate to the overall layout. The softer color was chosen to create a more harmonious and less harsh visual appearance.",
+    "progression": "Initially, the text elements were too large and visually dominant. By decreasing the font size and changing the color, the designer achieved a more balanced and aesthetically pleasing design. These changes also contributed to a more cohesive look, aligning with the overall design goals of clarity and subtlety."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 20,
+    "decision_and_actions": "The designer decided to center-align the five categories within an auto layout frame. This involved adjusting the x and y properties of the frame to ensure the categories were visually centered on the webpage.",
+    "rationale": "The rationale behind center-aligning the categories was to maintain visual balance on the webpage. Since the main title of the webpage is centered, aligning the categories directly below it helps guide the user's eye naturally down the page, creating a cohesive and balanced design.",
+    "progression": "By center-aligning the categories, the designer ensured that the visual weight of the webpage was balanced, with the main title and categories forming a central focal point. This decision logically followed the existing centered layout of the webpage's main elements, enhancing the overall user experience by providing a clear and organized structure."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 21,
+    "decision_and_actions": "The designer decided to arrange the product page with four products per row. Initially, they created a rectangle to represent the product image frame. Observing that the initial size left too much space, they increased the size of all rectangles. They adjusted the spacing between products to 16 pixels for even distribution and aligned them centrally. The designer then created additional rectangles to complete the row of four products, ensuring consistent size and spacing. Finally, they grouped the rectangles for better organization.",
+    "rationale": "The decision to display four products per row was made to achieve visual balance and provide a clean, organized appearance to the user. Adjusting the spacing to 16 pixels, a more visually balanced even number, further enhanced the layout's symmetry and aesthetic appeal.",
+    "progression": "The design process began with creating a single rectangle to represent a product image. After resizing and aligning the initial rectangle, the designer duplicated it to form a complete row of four products. They ensured consistent spacing and alignment, then grouped the rectangles to maintain organization and facilitate future adjustments."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 22,
+    "decision_and_actions": "The designer selected a rectangular frame to house product images, ensuring that text is placed below each image. Adjustments were made to the text box dimensions, changing the width from 253 to 305 and the height from 64 to 63.",
+    "rationale": "The choice of a rectangular frame allows for effective placement of product images, enhancing visual balance and user experience by aligning text directly below the images. This layout helps maintain a clean and organized appearance, making it easier for users to associate text with the corresponding image.",
+    "progression": "The design process progressed by first establishing a structured layout with rectangular frames for images. The designer then refined the text box dimensions to better fit the design, ensuring that the text aligns neatly under the images, contributing to a cohesive and visually appealing interface."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 23,
+    "decision_and_actions": "The designer created text boxes for each product within the frame. This involved adding a new text element to the design, which was placed below the product images to display product information clearly.",
+    "rationale": "The decision to create individual text boxes for each product was made to ensure that product information is conveyed clearly and effectively. This helps users easily identify and understand the details of each product, enhancing the overall user experience.",
+    "progression": "By adding text boxes under each product image, the designer logically progressed the design towards a more informative and user-friendly interface. This step was crucial in organizing the layout to maintain clarity and accessibility of product information."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 24,
+    "decision_and_actions": "The designer decided to use the 'Roboto Mono' typeface for all text elements to maintain a consistent typography across the design. This involved changing the font from 'Inter' to 'Roboto Mono' for the text element with ID '4006:183'. Additionally, the height of the text element was adjusted from 77 to 84 to accommodate the new font style.",
+    "rationale": "The rationale behind choosing 'Roboto Mono' was to create a unified and cohesive look throughout the interface. Monospaced fonts like 'Roboto Mono' can provide a clean and modern aesthetic, which aligns with the overall design goals of the project.",
+    "progression": "By standardizing the typography, the designer ensured that all text elements would have a consistent appearance, which is crucial for visual harmony. This decision set the foundation for further design elements to be added with a consistent style, enhancing the overall user experience."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 25,
+    "decision_and_actions": "The designer adjusted the font size of the text from 64 to 18. Additionally, the width and height of the text box were changed from 118 to 34 and from 84 to 24, respectively.",
+    "rationale": "The font size was set to 18 to enhance visual balance and readability. This size was chosen to ensure that the text complements the overall design without overwhelming the product images.",
+    "progression": "By setting the font size to 18, the designer established a consistent and readable text style that aligns with the visual hierarchy of the page. This decision supports the overall aesthetic and functional goals of the design, ensuring that the text is clear and accessible to users."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 26,
+    "decision_and_actions": "The designer added an example text 'T07//ROAM.MEDIUM.SLING' to a text box within a frame. The text properties were adjusted, including changing the name and characters from a placeholder to the example text, and resizing the text box width from 34 to 238 to accommodate the new text.",
+    "rationale": "The purpose of adding the example text was to visually assess how the chosen typography and size would appear in the design. This step ensures that the text is legible and maintains a consistent style across the web page, contributing to the overall design's uniformity and readability.",
+    "progression": "By inserting the example text and adjusting its properties, the designer was able to evaluate the visual impact of the text within the layout. This action helped in confirming that the text size and typography align with the intended design aesthetics, allowing for further refinement and consistency in the design process."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 27,
+    "decision_and_actions": "The designer decided to remove the padding between the item title and price to create a cleaner layout. Specifically, the paddingTop property was changed from 8 to 0, and the height of the frame was adjusted from 40 to 32. Additionally, the y-position of the price text was changed from 8 to 0.",
+    "rationale": "The rationale behind this decision was to enhance visual balance and readability by reducing unnecessary space between elements. By removing the padding, the designer aimed to achieve a more streamlined and aesthetically pleasing layout.",
+    "progression": "The design process progressed by focusing on optimizing the spacing between text elements. After adjusting the text alignment and layout mode in previous steps, the designer continued to refine the interface by eliminating excess padding, thereby maintaining consistency and improving the overall visual structure."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 28,
+    "decision_and_actions": "The designer decided to maintain consistency by copying and pasting an existing structure. This involved duplicating frames and adjusting their positions. Specifically, frames were copied and repositioned to align with the existing layout, ensuring uniformity across the design. The frames were renamed sequentially to maintain organization.",
+    "rationale": "The rationale behind this decision was to ensure design consistency and efficiency. By reusing an existing structure, the designer could maintain a cohesive look and feel across the interface, which is crucial for user experience. This approach also streamlined the design process, saving time and effort.",
+    "progression": "The design process progressed logically by first duplicating the existing frames, then adjusting their positions to fit the layout. The frames were renamed to keep the design organized. This methodical approach allowed the designer to efficiently expand the design while maintaining a consistent visual structure."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 29,
+    "decision_and_actions": "The designer inserted actual product images into the placeholders within the layout. Specifically, they replaced the solid color fills of the rectangles with images, ensuring the images were set to 'FILL' scale mode to maintain the aspect ratio and fit the designated space.",
+    "rationale": "Inserting real images is crucial for assessing the visual balance and consistency of the design. It ensures that the product images are displayed appropriately within the layout, allowing users to clearly recognize the products. This step is essential for verifying that the images align well with the overall design and do not disrupt the visual flow.",
+    "progression": "By replacing the placeholder fills with actual images, the designer was able to evaluate the layout's effectiveness in presenting product information. This action helped in confirming that the images fit well within the designated areas, maintaining a clean and organized appearance, which is vital for user engagement and clarity."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 30,
+    "decision_and_actions": "The designer selected a rectangle box and applied an image to it, ensuring the image fills the box completely. This was achieved by changing the fill property of the rectangle from a solid color to an image with a 'FILL' scale mode, ensuring the image fits perfectly within the box dimensions.",
+    "rationale": "The decision to fit the image exactly to the box size was made to maintain the intended layout structure. By aligning the image with the box dimensions, the designer ensured consistency and visual harmony across the design, preventing any deviation from the original layout plan.",
+    "progression": "The design process progressed by first selecting the rectangle box, then replacing its solid color fill with an image. This action was part of a broader strategy to maintain a cohesive and structured layout, ensuring that all visual elements align with the predefined design framework."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 31,
+    "decision_and_actions": "The designer decided to add a button to display color options for an item. They created an ellipse to serve as the button, aligning with the overall rounded aesthetic of the interface. The ellipse was initially created and then resized to a width and height of 20 units. It was positioned at coordinates (37, 703) and later adjusted to (69, 703). A second ellipse was created and named 'Ellipse 2' to represent another color option.",
+    "rationale": "The rationale behind using an ellipse for the button was to maintain consistency with the rounded design elements of the interface. This choice helps in visually integrating the button with the rest of the design, making it intuitive for users to recognize it as an interactive element for selecting color options.",
+    "progression": "The design process progressed by first creating the initial ellipse to represent a color option. The designer then adjusted its size and position to fit the layout appropriately. Following this, a second ellipse was added to indicate the availability of multiple color options, ensuring that users can easily switch between them."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 32,
+    "decision_and_actions": "The designer decided to visually indicate the available color options for an item by using circular icons. They added a stroke to the icon representing the currently selected color. The stroke was applied using the 'INSIDE' alignment option to maintain consistent icon sizes. The stroke color was set to black, and the stroke weight was increased from 1 to 3 to enhance visibility.",
+    "rationale": "The designer chose the 'INSIDE' stroke alignment to ensure that the size of the circular icons remained consistent, avoiding any visual discrepancies that could occur with 'OUTSIDE' or 'CENTER' alignments. This decision was made to provide a clear and intuitive indication of the selected color option, enhancing user experience by making the selection process more visually apparent.",
+    "progression": "Initially, the designer changed the fill color of the icons to represent different color options. Then, they added a black stroke to the icon of the currently selected color, using the 'INSIDE' alignment to keep the icon size uniform. Finally, they increased the stroke weight to 3, making the selection more prominent and easily noticeable to users."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 33,
+    "decision_and_actions": "The designer decided to reduce the size of the ellipses representing color options. Specifically, the height and width of both 'Ellipse 1' and 'Ellipse 2' were adjusted from 20 to 18 units.",
+    "rationale": "The reduction in size was aimed at achieving visual balance and enhancing the intuitiveness of the icons. By making the ellipses slightly smaller, they become less obtrusive and more harmonious with the overall design, ensuring that they complement rather than dominate the visual hierarchy.",
+    "progression": "This decision logically follows the designer's intent to maintain a cohesive and visually appealing interface. By adjusting the size of the ellipses, the designer ensured that the color options are clearly visible yet subtly integrated into the design, supporting the overall aesthetic and functional goals of the interface."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 34,
+    "decision_and_actions": "The designer adjusted the alignment of elements within the frame, specifically moving the y-position of 'Frame 13' and 'Frame 15' slightly downwards. Additionally, the designer increased the padding at the top of 'Frame 16' and adjusted the height to maintain visual balance. The ellipses were also repositioned to align with the new layout.",
+    "rationale": "The adjustments were made to enhance the visual balance and cleanliness of the layout. By realigning the elements and adjusting the padding, the designer aimed to create a more organized and aesthetically pleasing interface, which would also facilitate easier future modifications, such as adding new elements while maintaining consistent spacing.",
+    "progression": "The design process progressed logically by first addressing the misalignment issues, then refining the layout through padding adjustments. This ensured that the interface maintained a clean and balanced appearance, setting a solid foundation for any additional elements that might be added later."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 35,
+    "decision_and_actions": "The designer decided to add and align circles (ellipses) to maintain consistent spacing for future additions. They moved an existing frame (ID: 4006:230) horizontally and created new groups and ellipses within the frame. The width of the frame was adjusted from 42 to 66 to accommodate the new elements.",
+    "rationale": "The rationale behind these actions was to ensure that when additional elements are copied and pasted in the future, the spacing remains consistent and visually appealing. This approach simplifies the process of adding new elements while maintaining a clean and organized layout.",
+    "progression": "Initially, the designer adjusted the position of an existing frame to create space for new elements. They then created new groups and ellipses, ensuring they were properly aligned. Finally, the frame's width was increased to fit the new elements, allowing for a seamless integration of additional components in the future."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 36,
+    "decision_and_actions": "The designer changed the color of an ellipse element from a gray tone (RGB: 117, 117, 117) to a red tone (RGB: 255, 77, 77) in the Figma design file. This change was applied to an element named 'Ellipse 2' within a frame containing multiple sibling elements.",
+    "rationale": "",
+    "progression": "By changing the color of the ellipse to red, the designer visually represented a product option, aligning with the product's available color choices. This step was part of ensuring that the design accurately reflects the product variations without altering the main design theme of the website."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 37,
+    "decision_and_actions": "The designer decided to add multiple ellipses to a frame to represent different color options for a product. They created three new ellipses (Ellipse 3, Ellipse 4, and Ellipse 5) within 'Frame 17'. The width of the frame was adjusted incrementally from 42 to 66, then to 90, and finally to 114 to accommodate the new ellipses.",
+    "rationale": "The designer aimed to create a visual representation of product color options that could be easily expanded. By adding ellipses and adjusting the frame width, they ensured that the layout could maintain consistent spacing and alignment, making it easier to add more options in the future.",
+    "progression": "Initially, the frame contained fewer ellipses, but as the designer added more, they adjusted the frame's width to maintain proper spacing. This step-by-step addition and adjustment allowed for a scalable design that could accommodate additional color options without disrupting the overall layout."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 38,
+    "decision_and_actions": "The designer changed the color of an ellipse representing a color option from a red hue to a yellow hue. This was done by adjusting the RGB values of the ellipse's fill property in Figma.",
+    "rationale": "The yellow color was selected to clearly indicate it as one of the available color options for a product with multiple color variations. This helps users easily identify and select their preferred color option.",
+    "progression": "By changing the ellipse color to yellow, the designer effectively highlighted the selected color option among other available choices. This decision supports a user-friendly interface where users can visually distinguish and choose from various color options."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 39,
+    "decision_and_actions": "The designer changed the color of an element identified as 'Ellipse 3' from a gray tone to a blue color with RGB values approximately (0.316, 0.325, 0.815). This change was applied to the fill property of the element.",
+    "rationale": "",
+    "progression": "By changing the color of the ellipse to blue, the designer enhanced the visual distinction of product options on the interface. This step logically followed the need to represent different product options clearly, contributing to a more intuitive user experience."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 40,
+    "decision_and_actions": "The designer changed the fill color of an element, 'Ellipse 4', to white. To ensure visibility against the background, they added a stroke with a light gray color (RGB: 0.89, 0.89, 0.89) and set the stroke to be inside the element with a width of 1.",
+    "rationale": "The designer aimed to use a white color for the element, but recognized that it would not be visible against the background. To address this, they decided to add a stroke to enhance the element's visibility without altering the desired color scheme.",
+    "progression": "Initially, the element had a gray fill. The designer changed it to white, then added a light gray stroke to ensure it stood out against the background. This decision allowed the element to maintain its intended color while being clearly visible."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 41,
+    "decision_and_actions": "The designer grouped related elements such as the image, title, price, and color options into a single group. This was done for multiple sets of these elements, creating distinct groups for each product display.",
+    "rationale": "The rationale behind grouping these elements was to facilitate easier movement and manipulation of the layout. By grouping related components, the designer ensured that they could be moved as a single unit, maintaining their relative positioning and alignment.",
+    "progression": "The design process progressed by organizing the layout into manageable sections. This grouping allowed the designer to efficiently adjust the layout and prepare for further refinements, ensuring that each product display could be easily repositioned or duplicated as needed."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 42,
+    "decision_and_actions": "The designer grouped a column of product elements into a higher-level group. This involved creating a new group (ID: 4006:263) and assigning existing groups (IDs: 4006:259, 4006:260, 4006:261, 4006:262) as its children. This action was followed by creating another group (ID: 4006:264) and adjusting its position to ensure proper alignment and spacing.",
+    "rationale": "The decision to group the column into a higher-level group was made to enhance the design's scalability and maintain consistency. By organizing elements into a structured hierarchy, the designer ensured that additional columns could be easily added in the future without disrupting the existing layout. This approach also facilitates efficient management of multiple elements.",
+    "progression": "Initially, the designer grouped individual elements into a column group. Then, they created a higher-level group to encompass multiple column groups, allowing for potential expansion. The designer adjusted the position of the new group to align with the existing layout, ensuring visual consistency and proper spacing between elements."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 43,
+    "decision_and_actions": "The designer decided to adjust the spacing between product items to enhance visual balance and improve user experience. Specifically, the x-coordinate of 'Group 1' was changed from 27 to -39, and the y-coordinate from 225 to 486, effectively increasing the space between the product groups.",
+    "rationale": "The rationale behind this decision was to achieve a visually balanced layout and enhance readability. The designer noted that the previous spacing was too close, which could negatively impact the visual appeal and user experience. By increasing the spacing, the designer aimed to create a more aesthetically pleasing and user-friendly interface.",
+    "progression": "The design process progressed logically from grouping related elements to adjusting their spacing. Initially, the designer grouped elements like images, titles, and prices to facilitate easier movement and alignment. Following this, the focus shifted to adjusting the spacing between these groups to ensure a balanced and visually appealing layout, thereby improving the overall user experience."
+  },
+  {
+    "participant_id": "P11",
+    "task_type": "shopping_site",
+    "step_index": 44,
+    "decision_and_actions": "The designer decided to add a cart icon to the interface. This involved modifying the properties of existing elements, specifically adjusting the image fills of several rectangles to incorporate the cart icon. The changes included updating the image transform properties to ensure the icon was visible and properly scaled within the design.",
+    "rationale": "The addition of the cart icon was intended to enhance user experience by making it easier for users to recognize and access items in their cart. This visual cue helps users quickly identify the cart's location and understand its function, thereby improving navigation and usability.",
+    "progression": "The design process progressed by systematically updating the image properties of multiple elements to integrate the cart icon. Each step involved careful adjustment of image transforms to maintain consistency and visibility across the interface, ensuring that the icon was effectively incorporated into the design layout."
+  }
+]

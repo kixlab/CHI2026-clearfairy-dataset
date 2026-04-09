@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: ClearFairy Cognitive Decision Steps
+message: >-
+  If you use this dataset, please cite the accompanying ClearFairy paper.
+type: dataset
+authors:
+  - family-names: Son
+    given-names: Kihoon
+    email: kihoon.son@kaist.ac.kr
+    affiliation: KAIST
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: >-
+    ClearFairy: Capturing Creative Workflows through Decision Structuring,
+    In-Situ Questioning, and Rationale Inference
+  authors:
+    - family-names: Son
+      given-names: Kihoon
+      email: kihoon.son@kaist.ac.kr
+      affiliation: KAIST
+    - family-names: Choi
+      given-names: DaEun
+    - family-names: Kim
+      given-names: Tae Soo
+    - family-names: Kim
+      given-names: Young-Ho
+    - family-names: Yun
+      given-names: Sangdoo
+    - family-names: Kim
+      given-names: Juho
+  collection-title: >-
+    Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems
+  year: 2026
+  publisher:
+    name: ACM
+  doi: 10.1145/3772318.3791680
+  url: https://arxiv.org/abs/2509.14537

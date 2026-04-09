@@ -1,0 +1,234 @@
+[
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 0,
+    "decision_and_actions": "The designer created a new frame for a desktop-sized web interface and added a text element for the lab's name, 'PI LAB'. The font size of the text was increased from 12 to 36 to make it more prominent.",
+    "rationale": "The designer emphasized the importance of clearly displaying the lab's name to ensure that visitors immediately recognize the lab's identity. Increasing the font size was a deliberate choice to enhance visibility and impact.",
+    "progression": "The design process began with setting up a desktop frame, followed by adding and styling the lab's name as the main title. This established a clear visual hierarchy, with the lab's name prominently displayed, setting the foundation for further content addition."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 1,
+    "decision_and_actions": "The designer moved the text element 'PI LAB,' to the top left corner of the frame, changing its x-coordinate from 505 to 61 and y-coordinate from 160 to 113. This action was taken to align the design with a reference layout.",
+    "rationale": "The decision to place the text in the top left corner was based on the common reading pattern where people read from left to right and top to bottom. By positioning the text here, it becomes the first element that catches the viewer's attention, making it more noticeable and easier to read.",
+    "progression": "By relocating the text to the top left, the designer established a clear starting point for the viewer's eye movement across the page. This decision set the foundation for organizing other elements in a way that follows the natural reading flow, enhancing the overall usability and visual hierarchy of the webpage."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 2,
+    "decision_and_actions": "The designer decided to adjust the body text to improve readability. Initially, they considered increasing the font size but instead reduced it from 22 to 12. They then increased the line height from 120 to 405 to enhance spacing between lines. Additionally, the designer contemplated changing the font but noted that selecting a new font would require more time.",
+    "rationale": "The primary reason for these adjustments was to address the issue of the text being difficult to read. By reducing the font size and increasing the line height, the designer aimed to create a more balanced and readable text layout. The consideration of changing the font indicates a desire to further improve readability, although this decision was postponed due to time constraints.",
+    "progression": "The design process progressed by first addressing the immediate readability concerns through adjustments in font size and line spacing. This step was crucial in ensuring that the text was more legible and visually appealing. The potential change in font was identified as a future enhancement, indicating a continuous improvement approach in the design process."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 3,
+    "decision_and_actions": "The designer adjusted the spacing between paragraphs to improve readability. Specifically, they increased the 'y' position of the text block from 69 to 89, effectively adding more vertical space between the paragraphs.",
+    "rationale": "",
+    "progression": "By increasing the paragraph spacing, the designer improved the visual clarity of the text, making it easier for users to read and comprehend the content. This change logically followed the initial observation about readability issues, addressing the problem directly and enhancing the user experience."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 4,
+    "decision_and_actions": "The designer increased the paragraph spacing from 8 to 12 and adjusted the height of the text block from 421 to 429.",
+    "rationale": "The designer aimed to improve readability and visual appeal. They noted that small line and letter spacing can make text difficult to read and reduce its visual impact, so they increased the spacing to enhance legibility.",
+    "progression": "By adjusting the paragraph spacing and height, the designer ensured that the text was more readable and visually balanced, contributing to a more user-friendly interface."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 5,
+    "decision_and_actions": "The designer increased the letter spacing from 0% to 5% and adjusted the text block's width from 1000 to 1226 pixels. Additionally, the line height was changed from 'AUTO' to 32 pixels, and the text block's height was adjusted from 375 to 440 pixels.",
+    "rationale": "The adjustments were made to enhance readability and provide a visually comfortable layout. By increasing the letter spacing and line height, the text becomes easier to read, reducing visual clutter and improving the overall user experience.",
+    "progression": "Initially, the designer focused on increasing the letter spacing and width to create more space between characters and lines. This was followed by adjusting the line height to ensure the text block maintained a balanced and readable appearance. These changes collectively contributed to a more accessible and aesthetically pleasing design."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 6,
+    "decision_and_actions": "The designer adjusted the line height from 32 pixels to 30 pixels and reduced the letter spacing from 5% to 3%. These changes were made to address the issue of the text appearing too stretched and dispersed.",
+    "rationale": "",
+    "progression": "Initially, the designer increased the line height and letter spacing to enhance readability. Upon realizing that this made the text look too stretched, they adjusted these properties to a middle ground, resulting in a more visually appealing and readable text layout."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 7,
+    "decision_and_actions": "The designer decided to include an introductory text on the homepage of the lab's website. This text was created as a new text element within the main frame, alongside other text elements. The introductory text provides a brief overview of the lab's focus and activities.",
+    "rationale": "The rationale behind including the introductory text is to immediately inform visitors about the lab's purpose and research focus. The designer believes that having this information readily available helps visitors quickly understand what the lab is about, which is crucial for a research lab's website.",
+    "progression": "By adding the introductory text, the designer set the foundation for the website's content structure. This decision ensures that visitors are greeted with essential information about the lab, aligning with the website's goal of effectively communicating the lab's research activities and objectives."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 8,
+    "decision_and_actions": "The designer created a menu for the lab's website, consisting of three items: 'Applications', 'Members', and 'Contact'. They decided to place the menu vertically on the left side of the page. The designer renamed and adjusted the text properties for each menu item, ensuring they were aligned vertically.",
+    "rationale": "The decision to use a vertical menu on the left side was likely influenced by the desire to maintain a clean and organized layout, which is common in research lab websites. This placement allows for easy navigation and keeps the focus on the main content area.",
+    "progression": "The design process progressed logically by first establishing the menu structure and placement. The designer then focused on renaming and adjusting the text properties of each menu item to ensure consistency and readability, setting the foundation for further design elements."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 9,
+    "decision_and_actions": "The designer reduced the font size of the menu text from 64 to 20 and then further adjusted it to 18. Additionally, the menu text was made bold to enhance visibility. The width and height of the text elements were also adjusted to fit the new font size.",
+    "rationale": "The initial font size was deemed too large, which could overwhelm the design and distract from other elements. By reducing the font size and making the text bold, the designer aimed to maintain readability while ensuring the menu items stand out appropriately against the body text.",
+    "progression": "The design process progressed by first addressing the oversized text, ensuring it was appropriately scaled for the interface. The bold styling was then applied to maintain emphasis on the menu items, balancing visibility with the overall aesthetic of the webpage."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 10,
+    "decision_and_actions": "The designer decided to enable Auto Layout to ensure consistent spacing and alignment across different screen sizes. They adjusted the item spacing from 105 to 24 and modified the height of the frame from 276 to 114. Additionally, the vertical positions of the 'Members' and 'Contact' text elements were adjusted to align them properly within the frame.",
+    "rationale": "The rationale for using Auto Layout was to facilitate responsive design, allowing the layout to adapt seamlessly to various device dimensions. This approach helps in visualizing how the design will appear on smaller screens and ensures that the interface remains consistent and visually appealing across different devices.",
+    "progression": "By implementing Auto Layout, the designer ensured that the menu items would maintain equal spacing and alignment, regardless of the screen size. This decision was a crucial step in creating a responsive and user-friendly interface, allowing for a more flexible and adaptive design process."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 11,
+    "decision_and_actions": "The designer decided to use an underline to highlight the 'Publications' menu item. Initially, the text decoration property was changed from 'NONE' to 'UNDERLINE'. To enhance visibility, the designer created a rectangle to serve as a highlight beneath the text, adjusting its position within the frame to align with the menu items.",
+    "rationale": "The designer aimed to make the menu item more noticeable by using an underline, a common method for indicating active or important links. By choosing a different color for the underline, the designer intended to increase the visual distinction and draw more attention to the highlighted item.",
+    "progression": "The design process progressed by first applying a basic underline to the text, then enhancing the visual impact by adding a colored rectangle beneath it. This approach ensured that the menu item stood out, aligning with the designer's goal of improving user navigation and interface clarity."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 12,
+    "decision_and_actions": "The designer decided to use a rectangle as a highlighting graphic element. They adjusted the spacing to make it appear as a highlight and copied the component to maintain consistent height across elements. Specific changes included adjusting the height of 'Rectangle 1' from 1 to 2, and 'Frame 2' from 47 to 48. The fill color of 'Rectangle 1' was changed to a blue shade (RGB: 0.679, 0.743, 1). The item spacing in 'Frame 2' was reduced from 24 to 2, and the height was adjusted from 48 to 26.",
+    "rationale": "The designer aimed to create a visual emphasis on certain elements by using a rectangle as a highlight. By adjusting the spacing and copying the component, they ensured a uniform appearance and prepared for potential future highlights. The color change to blue was likely chosen to make the highlight more visually distinct.",
+    "progression": "The design process progressed by first establishing a visual highlight using a rectangle, then refining the layout by adjusting spacing and height to ensure consistency. The designer's actions reflect a focus on both immediate visual impact and future adaptability of the design elements."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 13,
+    "decision_and_actions": "The designer decided to add a highlighting rectangle under each menu item to indicate the current page the user is on. This involved deleting existing text elements and adjusting the height of the frame containing the menu items to ensure uniformity. The height of the frame was changed from 218 to 126 to accommodate the new design.",
+    "rationale": "The rationale behind adding the highlighting rectangle was to provide a visual cue to users about which page they are currently viewing. This enhances user experience by making navigation more intuitive. Ensuring that all menu items have the same height with the highlighting rectangle maintains a consistent and clean look across the interface.",
+    "progression": "Initially, the menu was intended to be text-only. However, the need for a visual indicator led to the addition of the highlighting rectangle. This change required adjustments to the frame's height to maintain uniformity across all menu items, resulting in a more cohesive and user-friendly design."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 14,
+    "decision_and_actions": "The designer created distinct text elements for each publication, including titles, authors, and conference details. They adjusted the visual properties of these elements to differentiate them based on their purpose. For example, they considered using bold text for author information and larger text for titles. The designer also repositioned these elements within the frame to ensure clear visual separation and alignment.",
+    "rationale": "The designer aimed to visually distinguish different types of information (e.g., titles, authors, conference details) to enhance readability and comprehension. By applying different visual styles, such as bolding and resizing text, the designer intended to guide the viewer's attention to the most important information and create a structured layout that reflects the hierarchy of content.",
+    "progression": "Initially, the designer created separate text elements for each publication's details. They then applied specific styling to these elements to visually differentiate them. Finally, the designer repositioned the elements within the frame to achieve a clear and organized layout, ensuring that each piece of information is easily identifiable and accessible to the viewer."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 15,
+    "decision_and_actions": "The designer adjusted the font style from 'Medium' to 'Regular' for the text element 'Designing Adaptive Interfaces for Collaborative Creativity' and slightly reduced its width from 412 to 408 pixels. Additionally, the line height for multiple text elements was changed from a fixed pixel value to 'AUTO', and their heights were adjusted from 24 to 15 pixels.",
+    "rationale": "The change in font style to 'Regular' likely aimed to improve readability and visual consistency across the design. Adjusting the width and setting the line height to 'AUTO' ensures that the text adapts more fluidly to different screen sizes, supporting a responsive design approach. This aligns with the goal of creating a layout that effectively responds to various screen sizes.",
+    "progression": "By modifying the font style and adjusting the text dimensions, the designer ensured that the text elements maintain a consistent appearance across different devices. The use of 'AUTO' line height allows for better adaptability, contributing to a more flexible and responsive layout. These changes build upon previous decisions to use auto layout features, reinforcing the design's responsiveness."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 16,
+    "decision_and_actions": "The designer decided to deprioritize the image by moving it further back in the layout. This involved adjusting the position and size of the image elements. Specifically, 'image 4' was moved from x: 1031 to x: 1387 and y: 566 to y: 559, then resized from 198x198 to 263x263, and finally adjusted to 194x194. 'Image 3' was also repositioned from x: 1027 to x: 1365 and y: 795 to y: 956.",
+    "rationale": "The rationale behind these adjustments was based on the importance of the information being presented. Since the lab is not primarily focused on hardware, images were deemed less critical. Therefore, the designer chose to emphasize author and venue information over images, reflecting the lab's focus and priorities.",
+    "progression": "The design process progressed by first identifying the relative importance of different content types. The designer then physically adjusted the layout to reflect these priorities, ensuring that more critical information like author and venue details were more prominent, while images were minimized in the visual hierarchy."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 17,
+    "decision_and_actions": "The designer adjusted the font size of the text 'InterConf 2024 – International Conference on Human-Centered Computing' from 12 to 14 and changed its font style from 'Regular' to 'Medium'. The width and height of this text were also increased to accommodate the new font size. Additionally, the text color was changed to a lighter shade of gray. Similarly, the font size of the author names was increased from 12 to 16, and the text color was adjusted to a lighter gray.",
+    "rationale": "The designer prioritized the readability and emphasis of the title and author information by increasing the font size and changing the font style to 'Medium'. This decision was made to ensure that the most important information stands out and is easily readable. The lighter text color was chosen to create a visual hierarchy, making the title and author information more prominent against the other text elements.",
+    "progression": "The design process progressed by first identifying the key information that needed emphasis, which was the title and author details. The designer then made specific adjustments to the font size, style, and color to enhance readability and visual hierarchy. These changes were implemented to ensure that the most critical information is easily accessible to the viewer, aligning with the overall goal of improving information clarity and presentation."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 18,
+    "decision_and_actions": "The designer decided to make the title the boldest element on the page, followed by the conference information, which is also bold but less so than the title. The author information is displayed in a lighter font but slightly larger than the conference information to ensure clarity and readability. The designer adjusted the vertical positioning of the title and author information to enhance visual hierarchy and alignment.",
+    "rationale": "The rationale behind these decisions is to create a clear visual hierarchy that guides the viewer's attention. By making the title the boldest, it becomes the focal point, ensuring it captures the viewer's attention first. The conference information, being slightly less bold, still stands out but does not overshadow the title. The author information, while less bold, is made slightly larger to maintain readability and ensure it is easily noticeable without competing with the title.",
+    "progression": "The design process progressed logically by first establishing the most important element (the title) and ensuring it stands out. The designer then considered the secondary information (conference details) and adjusted its boldness to maintain a clear hierarchy. Finally, the author information was adjusted in size and position to ensure it is readable and well-aligned with the other elements, completing a balanced and visually appealing layout."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 19,
+    "decision_and_actions": "The designer evaluated the current information displayed on the web interface, which includes the title, author, and conference details. They considered whether additional information should be added but decided that the existing information was sufficient. The designer concluded that the title, author, and conference details are the key elements that users would be interested in when viewing the page.",
+    "rationale": "The rationale behind the decision was to ensure that the most relevant and essential information is presented to the users without overwhelming them with unnecessary details. The designer believed that the title, author, and conference details provide a comprehensive overview of the content, which aligns with the users' primary interests when accessing the page.",
+    "progression": "The design process progressed by confirming that the current set of information is adequate for the users' needs. This decision allowed the designer to focus on optimizing the presentation of these key elements, ensuring clarity and emphasis on the most important information. By deciding not to add more information, the designer maintained a clean and focused interface, which supports user engagement and comprehension."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 20,
+    "decision_and_actions": "The designer grouped an image thumbnail with three pieces of related text information into a single section. This involved adjusting the position of the image and creating a new frame to encapsulate the text elements, ensuring they are visually connected as a cohesive unit.",
+    "rationale": "The designer wanted to convey that the information is related to a single paper. By grouping the image with the title and other textual details, the designer aimed to provide a clear and comprehensive view of the paper's information, making it easier for users to understand the context at a glance.",
+    "progression": "Initially, the image and text elements were separate. The designer moved the image slightly to align it better with the text. Then, a new frame was created to group the text elements, which were repositioned within this frame to maintain a logical and visually appealing layout. This step ensured that all related information was presented together, enhancing the user's ability to quickly grasp the content's relevance."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 21,
+    "decision_and_actions": "The designer grouped all elements within a new frame named 'Frame 6' to maintain consistency. They adjusted the parent property of existing elements, such as 'image 4' and 'Frame 5', to be children of 'Frame 6'. The x and y coordinates of these elements were also updated to align them within the new frame.",
+    "rationale": "The designer aimed to ensure consistency and ease of reuse by encapsulating elements within a single frame. By converting these elements into components, any future changes to the parent component, such as text or color adjustments, would automatically propagate to all instances, simplifying updates and maintaining uniformity across the design.",
+    "progression": "The design process progressed by first creating a new frame to group related elements, ensuring they are organized under a single parent. This setup allows for efficient management and reuse of components, as changes to the parent component will reflect across all instances, streamlining future design modifications."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 22,
+    "decision_and_actions": "The designer decided to convert existing elements into a component. This involved deleting certain frames and rectangles (IDs: 2013:82, 2013:73, 2013:83) and creating a new component (ID: 2013:84) named 'Frame 6'.",
+    "rationale": "The rationale behind this decision was to facilitate reuse and consistency across the design. By creating a component, the designer aimed to streamline future design processes, ensuring that any updates or changes would automatically propagate to all instances of the component.",
+    "progression": "The design process progressed by organizing the elements into a reusable component, which sets the foundation for efficient design updates and maintenance. This step ensures that the design can scale effectively as more elements are added in the future."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 23,
+    "decision_and_actions": "The designer decided to use a line to separate sections within the web interface. They created a line element and adjusted its width from 127 to 899 to span the desired area. The line was placed within a frame alongside other text and graphical elements.",
+    "rationale": "The designer chose to use a line because it only required height adjustment, making it a simple and efficient choice for separating sections. They preferred using lines over rectangles or frames for this purpose to avoid the complexity of modifying colors or adding images later. Lines are suitable for purely graphical elements that serve as dividers.",
+    "progression": "Initially, the designer created a line to serve as a section divider. They adjusted its width to fit the layout, ensuring it effectively separated the content. This decision streamlined the design process by using a straightforward element that met the visual and functional requirements without unnecessary complexity."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 24,
+    "decision_and_actions": "No specific design decisions or actions were taken during this step as the transcript and related materials do not provide sufficient information.",
+    "rationale": "",
+    "progression": "The design process did not progress in this step due to the lack of information and context provided in the transcript and related materials."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 25,
+    "decision_and_actions": "The designer decided to refine the overall layout by adjusting the sidebar and main content widths to ensure a responsive design. They applied an auto layout to the entire page, ensuring that the sidebar and main content align properly. The designer increased the spacing between elements to prevent the content from appearing too cramped. They also adjusted the width of the main content to occupy the full container width, ensuring a balanced and visually appealing layout.",
+    "rationale": "The rationale behind these decisions was to create a more cohesive and responsive design that adapts well to different screen sizes. By aligning the sidebar and main content widths, the designer aimed to achieve a harmonious layout. Increasing the spacing between elements was intended to enhance readability and prevent the content from looking cluttered. Ensuring the main content occupies the full container width was crucial for maximizing the use of available space and improving the overall user experience.",
+    "progression": "The design process progressed logically by first grouping related elements into frames and adjusting their positions to align with the new layout structure. The designer then fine-tuned the spacing and dimensions of these frames to achieve the desired layout. By iteratively adjusting the properties such as item spacing, padding, and dimensions, the designer ensured that the layout remained consistent and visually appealing across different screen sizes. This methodical approach allowed for a seamless transition to a responsive design."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 26,
+    "decision_and_actions": "The designer adjusted the width of several components, specifically changing the width from 1205 to 1319 for multiple instances labeled as 'publications' and related frames. This adjustment was made to ensure that the components could occupy the full width of the page when necessary.",
+    "rationale": "",
+    "progression": "The design process progressed by first identifying the need for improved visibility of the 'publications' section. The designer then implemented width adjustments to allow the section to expand fully when needed. By setting the spacing to adjust automatically, the designer ensured that the layout would remain responsive and visually appealing across various screen sizes, maintaining usability and aesthetic consistency."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 27,
+    "decision_and_actions": "The designer identified an issue with the component width settings. Initially, the components were set to 'hug' content, resulting in inconsistent widths. To resolve this, the designer adjusted the component settings to fill the container width, ensuring uniformity across the design.",
+    "rationale": "The decision to change the component width settings was driven by the need for consistency in the layout. By setting the components to fill the container, the designer aimed to achieve a more cohesive and predictable design, avoiding the variability caused by the 'hug' setting.",
+    "progression": "The design process progressed by addressing the inconsistency in component widths. This adjustment allowed the designer to maintain a uniform appearance across the interface, enhancing the overall visual coherence and usability of the design."
+  },
+  {
+    "participant_id": "P01",
+    "task_type": "lab_website",
+    "step_index": 28,
+    "decision_and_actions": "The designer applied the 'Fill' setting to the Auto Layout, which automatically adjusts the width of the container to match its content. This change was reflected in the width adjustments of several elements, such as 'Frame 6', 'publications', and 'Line 1', reducing their width from 1205 to 889. Additionally, the 'image 4' element's x-position was adjusted from 1011 to 695.",
+    "rationale": "By using the 'Fill' setting in Auto Layout, the designer ensured that the container's width dynamically adjusts to its content. This approach eliminates the need for manual width adjustments, making it easier to apply consistent design changes across different components and improving the efficiency of future updates.",
+    "progression": "The design process progressed by implementing a more flexible layout system that adapts to content changes. This decision streamlined the workflow, allowing for easier application of design changes and ensuring that the layout remains consistent and responsive across different use cases."
+  }
+]

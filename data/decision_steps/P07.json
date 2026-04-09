@@ -1,0 +1,250 @@
+[
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 0,
+    "decision_and_actions": "The designer created a text element for the lab name 'Pinewood Interaction Lab (PI Lab)' and placed it at the top left corner of the frame.",
+    "rationale": "The designer chose the top left position for the lab name because it is visually balanced and comfortable, making it the first thing users see when they enter the page.",
+    "progression": "By placing the lab name at the top left, the designer established a clear starting point for the page layout, setting a foundation for further design elements to be added in a structured manner."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 1,
+    "decision_and_actions": "The designer increased the font size of the text 'Pinewood Interaction Lab (PI Lab)' from 12 to 36 and changed its alignment to left. They selected a font from the Grotesk family, specifically 'Hanken Grotesk', and changed the style to bold.",
+    "rationale": "The font size was increased to 36 to emphasize the text as the title of the webpage, enhancing its visibility and readability. The Grotesk font was chosen to give the website a unique and distinctive character, as it is less commonly used compared to serif or sans-serif fonts. The bold style was applied to further emphasize the text.",
+    "progression": "Initially, the text was small and centered. By increasing the font size and changing the alignment to left, the designer made the title more prominent and aligned it with common reading patterns. The choice of a bold Grotesk font added emphasis and a unique aesthetic, aligning with the designer's goal of making the title stand out as a key element of the webpage."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 2,
+    "decision_and_actions": "The designer decided to create an index for the main menu items: 'About', 'Research', 'People', and 'Publication'. They renamed the existing text element from 'Pinewood Interaction Lab (PI Lab)' to 'About' and adjusted its width. Subsequently, they created new text elements for 'Research', 'People', and 'Publication', ensuring each had appropriate widths.",
+    "rationale": "The rationale behind selecting 'About', 'Research', 'People', and 'Publication' as the main menu items was that these categories represent the core sections of the website. By focusing on these key areas, the designer aimed to provide clear navigation and structure to the users, highlighting the essential content of the site.",
+    "progression": "The design process progressed logically by first renaming the existing text element to 'About', which set the foundation for the menu. The designer then systematically added and named new text elements for 'Research', 'People', and 'Publication', ensuring each was properly aligned and spaced. This step-by-step approach ensured a coherent and organized menu structure."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 3,
+    "decision_and_actions": "The designer reduced the font size of the index items from 36 to 24 and changed the font style from Bold to Medium for the text elements labeled 'Research', 'Publication', 'About', and 'People'. This involved adjusting the width of these text elements to accommodate the new font size and style.",
+    "rationale": "The designer aimed to create a more balanced and visually appealing interface by reducing the size of the index items, which were initially perceived as too large and bold. By changing the font style to Medium, the designer intended to provide a contrast with the main title, enhancing readability and aesthetic appeal.",
+    "progression": "The design process progressed by first addressing the size and weight of the index items, ensuring they were visually distinct yet harmonious with the overall design. This adjustment allowed for a cleaner layout, setting the stage for further refinements in spacing and alignment."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 4,
+    "decision_and_actions": "The designer adjusted the font size of the titles from 24 to 20 and reduced the width of the text elements to create a more balanced layout. Specifically, the width of the 'People' text was changed from 73 to 61, 'Research' from 100 to 83, 'Publication' from 120 to 100, and 'About' from 66 to 55. Additionally, the spacing between the titles and subtitles was adjusted to 32 to ensure better visual separation.",
+    "rationale": "The rationale behind these adjustments was to ensure that the main title is prominent and easily noticeable, while the subtitles are clearly distinguishable but less dominant. By reducing the font size and adjusting the spacing, the designer aimed to create a hierarchy that emphasizes the main title first, followed by the subtitles, enhancing the overall readability and visual appeal of the webpage.",
+    "progression": "The design process progressed logically by first addressing the size and spacing of the text elements to establish a clear visual hierarchy. The designer's adjustments to the font size and spacing were aimed at achieving a balanced and aesthetically pleasing layout, ensuring that the main title stands out while maintaining coherence with the rest of the text elements."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 5,
+    "decision_and_actions": "The designer adjusted the position of an image by changing its x-coordinate from 390 to 40 and its y-coordinate from 247 to 150. This action aligned the image with the title and subtitle on the left side of the layout.",
+    "rationale": "Aligning the image with the title and subtitle on the left side creates a visually balanced layout. This alignment provides a comfortable starting point for users, making the content more accessible and aesthetically pleasing.",
+    "progression": "By repositioning the image to align with the text, the designer established a cohesive visual structure. This decision enhances the overall user experience by guiding the viewer's eye naturally from the image to the accompanying text, ensuring a logical flow of information."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 6,
+    "decision_and_actions": "The designer adjusted the vertical spacing between the subtitle and the title from 56 to 28. This involved moving the subtitle text elements ('About', 'Research', 'People', 'Publication') upwards by 2 units each, changing their 'y' property from 101 to 99. Additionally, the main image was slightly repositioned from a 'y' value of 151 to 149.",
+    "rationale": "The decision to reduce the spacing between the subtitle and the title was made to enhance the visual hierarchy and improve user experience. By decreasing the gap, the designer aimed to create a more cohesive and visually appealing layout, ensuring that the title remains prominent and easily noticeable.",
+    "progression": "Initially, the designer had set a larger spacing to emphasize the title. However, upon review, they realized that the gap was too wide, which could disrupt the visual flow. By reducing the spacing, the designer achieved a more balanced and structured layout, aligning with the goal of improving readability and visual appeal."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 7,
+    "decision_and_actions": "The designer increased the size of the main image on the webpage. Specifically, the width was changed from 573 to 706, and the height from 382 to 471.",
+    "rationale": "The main image serves as a crucial visual element on the webpage. By enlarging it, the designer aimed to enhance its visibility and prominence, ensuring it captures the user's attention effectively. A larger image can improve the overall aesthetic appeal and make the webpage more engaging.",
+    "progression": "Initially, the image was deemed too small, which could detract from its intended impact. By resizing the image, the designer improved its visual presence, aligning it better with the overall design goals of the webpage. This adjustment ensures that the image fulfills its role as a key visual component, contributing to a more balanced and visually appealing layout."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 8,
+    "decision_and_actions": "The designer created a large rectangle to serve as a background for text, positioning it to the right of an image. The rectangle was initially set to a gray color to help visualize its placement. The designer adjusted the rectangle's width to 702 and height to 361, ensuring a 42% margin from the page edges for balanced spacing.",
+    "rationale": "The gray color was chosen temporarily to help the designer focus on layout and positioning without the distraction of final colors. The 42% margin was intended to create a balanced and visually appealing layout, ensuring that the text and image were well-aligned and proportioned.",
+    "progression": "The design process began with establishing a clear layout by creating a placeholder rectangle. Adjustments to the rectangle's size and position were made to achieve the desired spacing and alignment. This step set the foundation for adding text and refining the design further."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 9,
+    "decision_and_actions": "The designer decided to emphasize certain words on the main page by applying a gold color to them. Additionally, they chose to italicize descriptions they deemed important, particularly those related to the classroom. This involved selecting specific text elements and adjusting their font properties to either bold or italicize them.",
+    "rationale": "The rationale behind these decisions was to ensure that key explanations and important terms stand out to users when they first visit the website. By using visual emphasis through color and font style, the designer aimed to draw attention to the most critical information, enhancing the user's ability to quickly grasp the core messages.",
+    "progression": "The design process progressed by first identifying which words and descriptions were most important to highlight. The designer then applied the gold color to these words and italicized the significant descriptions. This step logically followed the goal of making the website's key information more accessible and visually distinct, thereby improving the overall user experience."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 10,
+    "decision_and_actions": "The designer decided to add key research area keywords to the main homepage. They created a text element containing the keywords 'Human-AI Collaboration, Explainable AI Interfaces, Educational Technology, Interactive Machine Learning' and positioned it within the main frame of the homepage layout.",
+    "rationale": "The rationale behind adding these keywords was to help visitors quickly understand the lab's identity and focus areas upon first visiting the homepage. By prominently displaying these keywords, the designer aimed to convey the lab's core research themes and establish its identity effectively.",
+    "progression": "Initially, the designer identified the need to highlight the lab's research areas on the homepage. They then created a text element with the relevant keywords and adjusted its position within the layout to ensure visibility and alignment with the overall design. This step was part of a broader effort to enhance the homepage's informational clarity and visual appeal."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 11,
+    "decision_and_actions": "The designer decided to add a line to separate the research section from the content above. They created a line element and adjusted its width to span the entire section, ensuring it aligned with the edges for visual balance. The stroke weight of the line was increased from 1 to 4 to enhance its visibility and create a clear separation.",
+    "rationale": "The line was added to visually separate the research section from the content above, providing a clear distinction between different parts of the page. Increasing the stroke weight to 4 was intended to achieve visual balance and ensure the line was prominent enough to serve its purpose effectively.",
+    "progression": "Initially, the designer created a line element and adjusted its width to match the section's width, ensuring alignment with the edges. After establishing the line's position, they increased the stroke weight to enhance visibility, completing the separation between sections and improving the overall layout's clarity."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 12,
+    "decision_and_actions": "The designer centered a line element within the layout and then proceeded to create a section for research keywords. The text element previously labeled 'About' was renamed to 'Research Keywords' and its width was adjusted from 55 to 177 to accommodate the new content.",
+    "rationale": "",
+    "progression": "Initially, the designer ensured visual alignment by centering a line element. Following this, they shifted focus to content clarity by renaming and resizing a text element to introduce research keywords, thereby improving the informational structure of the homepage."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 13,
+    "decision_and_actions": "The designer changed the font style of the text labeled 'Research Keywords' from 'Medium' to 'Bold' using the Hanken Grotesk font. They also increased the font size from 20 to 24 and adjusted the text alignment to be left-aligned.",
+    "rationale": "The decision to bold the text and increase its size was made to enhance readability and emphasize the text. Left-aligning the text was chosen to create a visually balanced layout.",
+    "progression": "Initially, the text appeared too thin and less prominent. By bolding the text and increasing its size, the designer improved its visibility and impact. The left alignment ensured consistency with other elements on the page, contributing to a cohesive design."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 14,
+    "decision_and_actions": "The designer initially placed the keywords in a rough position on the interface. They adjusted the spacing between elements to 16 units to ensure consistent visual alignment. The keywords were then positioned to visually assess their placement before making precise adjustments.",
+    "rationale": "The designer aimed to achieve a visually appealing layout by first placing elements roughly to evaluate their overall look. This approach allows for an initial visual check before committing to specific placements, ensuring that the final adjustments enhance the design's coherence and readability.",
+    "progression": "The design process began with a rough placement of keywords to quickly assess their visual impact. After confirming the general layout, the designer adjusted the spacing to 16 units for consistency. This methodical approach allowed for a structured progression from initial placement to precise alignment, ensuring a balanced and visually appealing design."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 15,
+    "decision_and_actions": "The designer reduced the font size of the text 'Human-AI Collaboration' from 24 to 20 and changed the font weight from bold to medium. Additionally, the width of the text box was adjusted from 264 to 217 to accommodate the new font size and weight.",
+    "rationale": "The decision to decrease the font size and change the font weight was made to address the issue of the text appearing too large and bold, which disrupted the visual balance. By making these adjustments, the designer aimed to improve the visual contrast and ensure the text was more harmonious with the surrounding elements.",
+    "progression": "Initially, the text was too prominent, which could detract from the overall design. By reducing the font size and weight, the designer achieved a more balanced and cohesive look, aligning the text better with the rest of the interface. This step logically followed the need to enhance readability and aesthetic consistency."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 16,
+    "decision_and_actions": "The designer reduced the width of a rectangle from 318 to 262 to achieve a more balanced layout. Additionally, they adjusted the alignment by centering the text within the rectangle to enhance visual harmony.",
+    "rationale": "The adjustments were made to improve visual balance and user experience. By reducing the size of the rectangle and centering the text, the design becomes more organized and clear, contributing to a better user interface.",
+    "progression": "After identifying that the box was too large, the designer resized it to create a more proportionate layout. This was followed by aligning the text centrally within the box, ensuring that the elements were visually cohesive and aligned, thus enhancing the overall design clarity."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 17,
+    "decision_and_actions": "The designer initially attempted to change the background color of a rectangle to introduce some variation. However, they reverted to the original light blue color used previously. This involved adjusting the color properties of the rectangle from a grayish tone to a light blue with RGB values approximately (0.902, 0.941, 0.984).",
+    "rationale": "The decision to revert to the original light blue color was driven by the need to maintain visual consistency and coherence across the design. The designer prioritized a unified look, which is crucial for creating a seamless and professional appearance.",
+    "progression": "The design process progressed by first exploring a new color option, which was then evaluated against the existing design elements. Upon realizing that the new color disrupted the visual harmony, the designer decided to return to the original color scheme, reinforcing the overall design's consistency and balance."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 18,
+    "decision_and_actions": "The designer added new keywords to the web interface to enhance the understanding of the lab's identity and research areas. Specifically, they created new text elements labeled 'Human-AI Collaboration' and 'Explainable AI Interfaces' and positioned them within the 'Research Keywords' section. The designer adjusted the positioning of these elements to ensure alignment and consistency within the layout.",
+    "rationale": "The addition of keywords was intended to help visitors quickly grasp the lab's core identity and primary research areas. By clearly displaying these keywords, the designer aimed to communicate the lab's focus areas effectively, making it easier for visitors to understand the lab's expertise and interests.",
+    "progression": "Initially, the designer created new text elements for the keywords and placed them in the designated section. They then adjusted the positioning of these elements to ensure they were aligned and visually consistent with the rest of the design. This step was crucial in maintaining a cohesive and professional appearance, ultimately enhancing the user's understanding of the lab's research focus."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 19,
+    "decision_and_actions": "The designer adjusted the width of the text box from 262 to 286 to prevent the text from overflowing. Additionally, the text alignment was changed from left to center to ensure visual balance.",
+    "rationale": "The adjustments were made to maintain visual balance and ensure that the text did not overflow the text box, which could disrupt the design's aesthetics and readability. Center alignment was chosen to enhance symmetry and make the information easier to read.",
+    "progression": "By resizing the text box and centering the text, the designer ensured that all keywords fit neatly within their designated space, maintaining a clean and organized layout. This step logically followed the need to address text overflow and improve the overall visual presentation."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 20,
+    "decision_and_actions": "The designer adjusted the width of a text box from 262 to 286 to ensure visual consistency across all text boxes. This change was applied to maintain uniformity in the design layout. Additionally, the position of the 'Explainable AI Interfaces' text was slightly adjusted from x-coordinate 335 to 347 to align with the new dimensions.",
+    "rationale": "The rationale behind these adjustments was to achieve visual consistency and balance in the design. By ensuring that all text boxes have the same width, the designer aimed to create a harmonious and professional appearance, avoiding any element from standing out awkwardly due to size discrepancies.",
+    "progression": "Initially, the designer noticed that one text box was longer than the others, which disrupted the visual flow. To address this, they adjusted the width of the text box to match the others, followed by repositioning the text to align with the new layout. This step ensured that the design maintained a cohesive and balanced look."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 21,
+    "decision_and_actions": "The designer adjusted the horizontal alignment of text elements to be centered and set the spacing between review boxes to 16 pixels. This involved changing the x-coordinates of text elements 'Human-AI Collaboration' and 'Educational Technology' to ensure they are centrally aligned within their parent frame.",
+    "rationale": "The decision to set the spacing to 16 pixels was made to create a clear distinction between different boxes, allowing users to easily perceive them as separate entities. This spacing is intended to be noticeable without being excessive, maintaining a balanced and organized layout.",
+    "progression": "By centering the text elements and adjusting the spacing, the designer enhanced the visual hierarchy and clarity of the interface. This step logically followed the need to improve user recognition of distinct sections, contributing to a more intuitive and aesthetically pleasing design."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 22,
+    "decision_and_actions": "The designer decided to add a 'Highlight News' section to the lab's webpage, arranging the content into two columns. They moved the 'Highlight News' title to align with the 'Research Keywords' title on the left, ensuring visual consistency by matching the spacing with the title box above. The text block containing the news was repositioned horizontally from x: 897 to x: 785 and slightly adjusted vertically from y: 821 to y: 820.",
+    "rationale": "The rationale behind these decisions was to create a visually balanced and organized layout. By aligning the 'Highlight News' section with the 'Research Keywords' section, the designer aimed to maintain a cohesive and structured appearance across the page. This alignment helps in guiding the viewer's eye smoothly across the content, enhancing readability and aesthetic appeal.",
+    "progression": "The design process progressed by first determining the need for a 'Highlight News' section and then strategically placing it to complement the existing 'Research Keywords' section. The designer adjusted the positioning of the text to ensure alignment and consistency with other elements on the page, thereby achieving a harmonious and professional layout."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 23,
+    "decision_and_actions": "The designer decided to place the title of the first news item on the webpage. They adjusted the position of the text element to ensure it aligns with the starting position of the box, moving it from coordinates (897, 821) to (399, 909). This was done to check the overall balance when other news items are added below.",
+    "rationale": "",
+    "progression": "The design process progressed by first focusing on the placement of the initial news item to set a foundation for the rest of the content. This step was crucial for maintaining consistency and balance in the overall layout, allowing for a seamless addition of subsequent news items."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 24,
+    "decision_and_actions": "The designer changed the font of the text to 'Hanken Grotesk' to match the overall design theme and increased the font size from 12 to 20 points. Additionally, the width of the text box was adjusted from 366 to 610 to accommodate the larger font size.",
+    "rationale": "The font change to 'Hanken Grotesk' was made to ensure consistency across the design, as it aligns with the font used throughout the interface. Increasing the font size to 20 points was necessary because the original size of 12 points was deemed too small for readability and emphasis.",
+    "progression": "By updating the font and size, the designer ensured that the text was both visually consistent with the rest of the design and easily readable. This adjustment also allowed the text to stand out more prominently, enhancing the overall user experience and maintaining a cohesive visual hierarchy."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 25,
+    "decision_and_actions": "The designer adjusted the position of the text element to align with the start of a specific box, changing its x-coordinate from 399 to 775 and y-coordinate from 909 to 714. Additionally, the width of the text element was modified from 404 to 386. The designer also applied bold formatting to specific parts of the text to highlight important information.",
+    "rationale": "Aligning the text with the box's start position ensures design consistency and provides a visually balanced layout for users. Bold formatting was used to emphasize key information, making it easier for users to quickly identify important details.",
+    "progression": "The design process progressed by first ensuring alignment for consistency, followed by emphasizing important text elements through bold formatting. These steps contributed to a cohesive and user-friendly interface, enhancing both visual appeal and information accessibility."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 26,
+    "decision_and_actions": "The designer decided to place the second news item in the layout. They adjusted the position of the text element by changing its x-coordinate from 775 to 770 and its y-coordinate from 714 to 708 to align it with the first news item and maintain consistency.",
+    "rationale": "The decision to adjust the position of the second news item was driven by the need to maintain visual consistency and balance within the overall layout. By aligning the second news item with the first, the designer ensured a cohesive and organized appearance, which is crucial for user readability and aesthetic appeal.",
+    "progression": "After successfully placing the first news item, the designer moved on to the second news item, ensuring it was aligned with the first. This step logically followed the initial placement, reinforcing the design's consistency and balance, and setting a foundation for further content placement."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 27,
+    "decision_and_actions": "The designer decided to use the same font for consistency across the design. This involved selecting the existing font style and applying it to the new text element, ensuring uniformity in typography throughout the interface.",
+    "rationale": "The decision to use the same font was driven by the need to maintain a consistent visual identity and enhance user experience. Consistent typography helps users easily navigate and understand the content, reinforcing the design's cohesiveness.",
+    "progression": "By applying the same font to the new text element, the designer ensured that the interface maintained a unified look. This step logically followed previous decisions to keep typography consistent, contributing to a seamless and professional appearance of the web interface."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 28,
+    "decision_and_actions": "The designer adjusted the spacing between two titles. Initially, the spacing was reduced to 6, but it was deemed too narrow. The designer then set the spacing to 12, which was considered more appropriate. This adjustment was made by changing the 'y' property of the text element with ID '9013:275' from 708 to 760.",
+    "rationale": "The rationale behind adjusting the spacing to 12 was to enhance the visual hierarchy and make the titles more prominent. This change aimed to improve the user experience by ensuring that the titles stand out and are easily distinguishable.",
+    "progression": "The design process progressed by first testing a narrower spacing, which was found to be insufficient. By increasing the spacing to 12, the designer achieved a clearer visual separation between the titles, thereby improving the overall layout and readability of the interface."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 29,
+    "decision_and_actions": "The designer decided to bold important parts of the text in the 'Highlight News' section. Specifically, they bolded the text 'Best Paper Honorable Mention at InterConf 2025!' to make it stand out more prominently among other news items.",
+    "rationale": "The rationale behind bolding the important parts was to enhance visibility and ensure that key information is immediately noticeable to the viewer. The designer observed that without bolding, it was difficult to quickly identify the most significant news items, so they used bold text to draw attention to these elements.",
+    "progression": "The design process progressed by first identifying the need to highlight important news items. The designer then implemented bold text formatting to achieve this goal, ensuring that the most critical information was easily distinguishable from other content. This decision improved the overall readability and user experience of the 'Highlight News' section."
+  },
+  {
+    "participant_id": "P07",
+    "task_type": "lab_website",
+    "step_index": 30,
+    "decision_and_actions": "The designer decided to adjust the spacing between titles to maintain consistent gaps. They created a new text element and repositioned it to align with existing titles, ensuring uniform spacing. The text element was moved from coordinates (598, 526) to (1103, 896).",
+    "rationale": "The decision to maintain equal spacing between titles was driven by the need for visual consistency and balance in the design. Consistent spacing helps in creating a cohesive look, making the interface more aesthetically pleasing and easier to navigate.",
+    "progression": "Initially, the designer identified the need for consistent spacing between titles. They created a new text element and adjusted its position to align with other titles, ensuring uniformity. This step was part of a broader effort to enhance the visual structure and readability of the interface."
+  }
+]

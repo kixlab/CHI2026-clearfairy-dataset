@@ -1,0 +1,170 @@
+[
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 0,
+    "decision_and_actions": "The designer decided to start designing a web page with a focus on creating a tutorial-like experience. They initiated the process by setting up a wide-screen canvas in Figma, choosing a default white background to serve as a neutral negative space. This setup was intended to facilitate the addition of design elements later on. The designer also referenced the Northbridge University Social Computing Map page for inspiration, particularly noting its effective use of orange accents and top-down information flow.",
+    "rationale": "",
+    "progression": "The design process began with setting up a foundational canvas that would support the addition of various design elements. By choosing a neutral background, the designer ensured that future elements would stand out clearly. The reference to an existing well-designed page provided a benchmark for aesthetic and functional goals. This initial setup laid the groundwork for a flexible design process, allowing the designer to explore different elements and layouts in a structured yet open-ended manner."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 1,
+    "decision_and_actions": "The designer created a wide-screen workspace by drawing a rectangle on the canvas. Initially, a rectangle was created with default dimensions, which was then resized to a width of 2333 pixels and a height of 1388 pixels to fit the wide-screen format.",
+    "rationale": "The choice of a wide-screen format was driven by the prevalence of wide-screen monitors in most workstations, particularly PCs. This format not only aligns with common display standards but also offers flexibility for future adjustments, such as rotating the design for mobile devices. Additionally, the wide-screen format provides ample space for arranging elements and allows for creative exploration and planning.",
+    "progression": "By establishing a wide-screen workspace, the designer set a foundational layout that accommodates modern display standards. This decision facilitates the subsequent design process by providing a spacious and adaptable canvas, enabling efficient element placement and future-proofing the design for various devices."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 2,
+    "decision_and_actions": "The designer set the background color of the canvas to white. This was done by changing the fill color of a rectangle (ID: 6003:90) from a light gray (RGB: 0.85, 0.85, 0.85) to a near-white color (RGB: 1, 0.9867, 0.9867).",
+    "rationale": "The choice of a white background was made to create a clear distinction between negative and positive space as elements are added. A neutral white background helps maintain a spacious and uncluttered look, allowing the design elements to stand out without distraction.",
+    "progression": "By establishing a white background, the designer set a neutral foundation for the web page. This decision supports the subsequent addition of design elements, ensuring they are visually distinct and the overall layout remains clean and organized."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 3,
+    "decision_and_actions": "The designer decided to create a new text element on the canvas, initially setting its dimensions to a width of 130 and a height of 49. They then adjusted the text element's size to a width of 954 and a height of 165. Finally, they changed the text content to 'Northbridge University'.",
+    "rationale": "",
+    "progression": "The design process began with the creation of a text element, which was then resized to ensure it was prominent and easily readable. By setting the text to 'Northbridge University', the designer established a clear starting point for the webpage's identity, aligning with their goal of creating a lab homepage inspired by the Northbridge University Social Computing Map. This step sets the foundation for further design elements that will build upon this initial concept."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 4,
+    "decision_and_actions": "The designer decided to rename the text element from 'Northbridge University' to 'Riverstone Cultural Analytics Lab - Northbridge University'. This involved changing both the name and the characters of the text node in the design file.",
+    "rationale": "The rationale behind this decision was to provide a clearer and more descriptive label for the lab, making it easier for users to understand the context and purpose of the lab. By using the full name 'Riverstone Cultural Analytics Lab - Northbridge University', the designer aimed to enhance clarity and recognition, especially for those unfamiliar with the abbreviation 'Northbridge University'.",
+    "progression": "This decision progressed the design by establishing a more informative and user-friendly label for the lab. It set the stage for further design elements to be aligned with the lab's identity, ensuring consistency and clarity across the interface."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 5,
+    "decision_and_actions": "The designer decided to explore different design elements and configurations to enhance the web interface. They considered various options for text presentation, such as using capital letters for acronyms or lowercase for aesthetic appeal. The designer also planned to experiment with the layout of navigation tabs, including 'Home', 'Members', 'Works', and 'News', to determine the most intuitive and visually appealing arrangement.",
+    "rationale": "",
+    "progression": "The design process progressed by first identifying the key sections that needed to be included in the navigation. The designer then focused on experimenting with different text styles to find the most suitable option for the website's context. Following this, they planned to test various layout configurations for the navigation tabs to achieve a balance between functionality and aesthetics. This iterative approach allowed the designer to refine the interface based on practical trials and user-centric considerations."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 6,
+    "decision_and_actions": "The designer decided to create a 'HOME' tab as part of the navigation structure. This involved changing the text property of a node to 'HOME' in the design interface.",
+    "rationale": "The 'HOME' tab serves as the default entry point and main gateway for users to return to the starting point of the website, facilitating easy navigation and exploration.",
+    "progression": "By establishing the 'HOME' tab, the designer set a foundational element for the navigation structure, ensuring users have a clear and consistent way to return to the main page, which is crucial for user-friendly design."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 7,
+    "decision_and_actions": "The designer decided to create a navigation structure for the web interface by adding 'MEMBERS' and 'WORKS' tabs. The 'MEMBERS' tab was created by changing the text property of a text node to 'MEMBERS'. Similarly, the 'WORKS' tab was added by updating another text node to 'WORKS'.",
+    "rationale": "The rationale behind these decisions was to organize the website's content in a way that reflects the key aspects of the lab's activities. The 'MEMBERS' tab allows for categorization of faculty, students, and alumni, which is essential for users to understand the composition of the lab. The 'WORKS' tab highlights the lab's projects and publications, which are crucial for showcasing the lab's contributions and influence.",
+    "progression": "The design process progressed by first establishing a basic navigation structure with the 'HOME' tab, followed by the addition of 'MEMBERS' and 'WORKS' tabs. This sequence ensures that users can easily navigate to the main sections of the website, providing a clear and organized interface that aligns with the lab's objectives."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 8,
+    "decision_and_actions": "The designer decided to add a 'NEWS' tab to the web interface. This involved changing the name and characters of a text element to 'NEWS' in the design file.",
+    "rationale": "The rationale behind adding the 'NEWS' tab was to provide visitors with information about the lab's influence and reputation. This section would include news coverage and updates, which are important for visitors interested in the lab's impact and achievements.",
+    "progression": "After establishing the main sections of the website, such as HOME, MEMBERS, and WORKS, the designer added the NEWS tab to ensure comprehensive coverage of the lab's activities and reputation. This step logically followed the need to present a well-rounded view of the lab to its visitors."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 9,
+    "decision_and_actions": "The designer adjusted the position of the 'WORKS' and 'NEWS' tabs in the navigation bar. Specifically, the 'WORKS' tab was moved slightly to the left, and the 'NEWS' tab was moved to the right to ensure proper alignment and spacing between the tabs.",
+    "rationale": "The designer aimed to enhance user experience by ensuring that the navigation tabs are evenly spaced and visually balanced. This adjustment helps users easily navigate between different sections without cognitive overload, supporting the goal of providing a seamless and intuitive navigation experience.",
+    "progression": "By adjusting the tab positions, the designer improved the visual structure of the navigation bar. This change supports the overall design goal of creating a user-friendly interface where information is accessible and easy to explore, aligning with the idea of maintaining a clear and organized presentation of content."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 10,
+    "decision_and_actions": "The designer considered whether to keep or remove the 'HOME' menu item. They decided to keep it for now but discussed the possibility of removing it and allowing users to return to the main page by clicking the top menu tab. Additionally, they adjusted the position of the 'HOME' text slightly and added extra spacing to the 'MEMBERS' text.",
+    "rationale": "The rationale behind potentially removing the 'HOME' menu item was to create a more intuitive and exploratory navigation experience. By allowing users to click the top menu tab to return to the main page, the design could reflect the unique style and preferences of the lab members, making the website feel like a playful and distinctive space. The adjustments to text positioning and spacing were likely made to improve visual alignment and readability.",
+    "progression": "The design process progressed by exploring different navigation options that align with the lab's identity. The designer considered user experience and how the design could convey the lab's character. By making small adjustments to text elements, they ensured the interface remained clean and user-friendly while contemplating more significant changes to the navigation structure."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 11,
+    "decision_and_actions": "The designer decided to use a pictogram to represent the 'Members' section on the webpage instead of explicitly labeling it with text. They downloaded an image of a group of people, which was initially not transparent. The designer adjusted the position and size of the pictogram to fit within the layout, moving it to align with the 'MEMBERS' text and resizing it to be more proportionate.",
+    "rationale": "The rationale behind using a pictogram was to create a more intuitive and visually appealing interface. The designer believed that visitors would easily associate the pictogram of people with the 'Members' section, thus eliminating the need for additional text. This approach aims to enhance user experience by making the interface cleaner and more engaging.",
+    "progression": "Initially, the pictogram was downloaded and placed on the webpage. The designer then adjusted its position and size to ensure it aligned well with the existing layout. These adjustments were made to maintain visual balance and ensure that the pictogram effectively communicated its intended purpose without the need for textual labels."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 12,
+    "decision_and_actions": "The designer decided to include member photos in the 'Members' section of the Social Computing webpage. They created a text element and adjusted its dimensions, changing the width from 137 to 556 and the height from 330 to 752.",
+    "rationale": "Including member photos helps users intuitively understand member information, making the webpage more engaging and informative. The adjustment of the text element's size likely accommodates the visual elements, ensuring they fit well within the design layout.",
+    "progression": "The design process progressed by first creating a text element to serve as a placeholder or label for the 'Members' section. The designer then resized this element to ensure it could effectively display the intended content, aligning with the goal of enhancing user understanding through visual representation."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 13,
+    "decision_and_actions": "The designer decided to replace personal photos with pictograms or animation characters to represent 'members' on the webpage. This involved using a generic pictogram to symbolize individuals instead of actual images, as seen in the navigation bar under 'MEMBERS'.",
+    "rationale": "The rationale behind this decision was to address privacy concerns related to personal information exposure. By using pictograms, the designer aimed to convey the concept of 'members' intuitively while protecting individual privacy.",
+    "progression": "This decision reflects a progression towards a more privacy-conscious design. By opting for pictograms, the designer ensured that the webpage remains informative and user-friendly while adhering to modern privacy standards."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 14,
+    "decision_and_actions": "The designer decided to arrange images representing people and add their names below them. They adjusted the size and position of an image element, changing its width from 270 to 172, height from 348 to 222, and repositioning it on the canvas.",
+    "rationale": "The rationale behind this decision was to ensure that the layout is intuitive and that users can easily find member information. The designer emphasized the importance of clear classification and labeling to avoid user frustration when navigating the 'Members' section.",
+    "progression": "The design process progressed by focusing on the visual arrangement of elements to enhance user experience. By resizing and repositioning the image, the designer aimed to create a more organized and accessible layout, setting the stage for further refinement of the interface."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 15,
+    "decision_and_actions": "The designer created a text element and initially named it 'Text'. They then adjusted the dimensions of this text box, increasing its width from 297 to 384 and its height from 140 to 249. Finally, they changed the text content to 'DANIEL PARK'.",
+    "rationale": "The designer aimed to personalize the design by adding a name, which serves as a placeholder for member names. This approach helps in visualizing how names will appear in the final design and ensures that the layout accommodates the text appropriately.",
+    "progression": "The process began with the creation of a text element, followed by resizing it to fit the intended space. The designer then updated the text content to reflect a sample name, allowing them to assess the visual impact and alignment within the design context."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 16,
+    "decision_and_actions": "The designer decided to adjust the font size of the text 'DANIEL PARK' from 64 to 35. This change was made to better fit the text within the available space and to ensure visual balance on the page.",
+    "rationale": "The rationale behind choosing a font size of 35 was to achieve a visually appealing balance in the layout. The designer considered that a smaller font size would enhance readability and maintain a clean look, which is crucial for user engagement and information accessibility.",
+    "progression": "Initially, the text size was too large for the designated space, disrupting the visual harmony of the design. By reducing the font size to 35, the designer improved the overall aesthetic and functionality of the interface, aligning the text size with the surrounding elements for a cohesive appearance."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 17,
+    "decision_and_actions": "The designer decided to include the real name 'DANIEL PARK' in the members section of the web interface. The action involved adding a line break after the name to adjust the text layout.",
+    "rationale": "The decision to use real names is based on the common practice of including real names for researchers, which helps in professional identification and credibility. However, the designer also considered privacy concerns and the potential risks of personal information exposure, which is why they discussed alternatives like using pseudonyms or nicknames. The line break was added to improve the visual presentation of the name on the webpage.",
+    "progression": "The design process progressed by first considering the balance between professional identification and privacy risks. The designer then implemented the decision by adjusting the text layout to ensure the name is displayed clearly and aesthetically on the webpage, reflecting a thoughtful approach to both usability and privacy considerations."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 18,
+    "decision_and_actions": "The designer updated the text element to include the title 'POST_DOC' alongside the name 'DANIEL PARK'. This involved changing the 'name' property from 'DANIEL PARK' to 'DANIEL PARK POST_DOC' and updating the 'characters' property to reflect the new text layout.",
+    "rationale": "",
+    "progression": "By adding the title 'POST_DOC', the designer enhanced the clarity and informativeness of the member's profile on the webpage. This decision logically progressed the design by ensuring that each member's role is explicitly stated, thereby improving the overall user experience and information accessibility on the site."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 19,
+    "decision_and_actions": "The designer adjusted the position and size of an image element labeled 'image 3' on the web page. Initially, the image was positioned at coordinates (660, 283) and was resized from a width of 320 and height of 412 to a new width of 188 and height of 242. The final position of the image was adjusted to coordinates (539, 158).",
+    "rationale": "The designer aimed to create a balanced and inclusive design for a community webpage. By repositioning and resizing the image, the designer ensured that the layout was not biased towards any single individual, reflecting the collective nature of the group. This adjustment was part of a broader strategy to respect and accommodate all members of the community equally.",
+    "progression": "The design process progressed by focusing on the visual balance of the webpage. The designer's actions to reposition and resize the image were guided by the need to maintain an equitable representation of all community members. This step was crucial in achieving a harmonious layout that aligns with the collaborative and inclusive goals of the design."
+  },
+  {
+    "participant_id": "P12",
+    "task_type": "lab_website",
+    "step_index": 20,
+    "decision_and_actions": "The designer added the text 'EXPLORE MORE' to the existing label 'DANIEL PARK POST_DOC' in the interface. This change was made to the text node with ID '6003:117'.",
+    "rationale": "The addition of 'EXPLORE MORE' aims to enhance user experience by making it easier for users to explore more information about specific individuals among a group. This provides a clear call-to-action, encouraging users to delve deeper into the content related to the person.",
+    "progression": "By incorporating the 'EXPLORE MORE' text, the designer has progressed the interface design towards a more interactive and user-friendly experience. This step logically follows the intention to improve navigation and exploration capabilities within the interface, aligning with the goal of enhancing user engagement."
+  }
+]

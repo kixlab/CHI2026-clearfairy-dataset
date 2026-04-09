@@ -1,0 +1,330 @@
+[
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 0,
+    "decision_and_actions": "The designer began by setting up a frame for the website design, choosing a common starting size of 1920 pixels for the frame. They then created a 12-column grid layout within this frame, setting the grid color and configuring the grid to have a gutter size of 20 and an offset of 360 pixels to ensure content is centered. Additionally, they created a text box for the header, naming it '메가마켓플레이스' and adjusting its width to fit the text.",
+    "rationale": "The choice of a 1920-pixel frame is based on its suitability for standard monitors, providing a common baseline for responsive design. The 12-column grid is a standard choice that allows for flexible content arrangement, especially useful for displaying products in even numbers. The offset ensures that content is centered, enhancing visual balance. Naming the header '메가마켓플레이스' aligns with the branding requirements of the project.",
+    "progression": "The design process began with establishing a foundational frame size, followed by setting up a grid system to guide content placement. This was followed by creating and positioning a header text box, which sets the stage for further content and design elements to be added in alignment with the established grid and frame."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 1,
+    "decision_and_actions": "The designer adjusted the header height from 97 to 80 and moved the text alignment to the left. The header height was changed to a round number, 80, for ease of development. The text, initially centered, was repositioned to the left side of the frame.",
+    "rationale": "The decision to set the header height to 80 was made because round numbers are easier to work with during development. Aligning the text to the left was based on common web design practices, where titles are typically placed on the left for better user recognition and accessibility.",
+    "progression": "Initially, the header height was reduced to create a more compact design. Following this, the text was moved to the left to align with standard design conventions, enhancing user familiarity and ease of navigation on the site."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 2,
+    "decision_and_actions": "The designer adjusted the left padding of the frame and the x-position of the text to 40. This involved changing the paddingLeft and paddingRight properties from 10 to 40 for the frame, and the x property from 10 to 40 for the text element.",
+    "rationale": "The designer chose a left padding of 40 to maintain a consistent spacing that is a multiple of 4, which facilitates easier adjustments later. This choice also ensures that the title is visually distinct and clear, which is important for both design aesthetics and development convenience.",
+    "progression": "By setting the left padding to 40, the designer established a foundational spacing rule that can be consistently applied throughout the design. This decision allows for a more organized layout and simplifies future modifications, aligning with both design and development needs."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 3,
+    "decision_and_actions": "The designer adjusted the padding of 'Frame 1' by changing the paddingTop and paddingBottom properties from 10 to 16. This was done to create a more balanced and visually appealing layout.",
+    "rationale": "",
+    "progression": "By setting the padding values, the designer established a baseline for the layout that can be easily modified as the design evolves. This approach allows for iterative adjustments, ensuring that the design remains adaptable to changes in style and product presentation."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 4,
+    "decision_and_actions": "The designer decided to add a logo to the site and adjusted the text box height from 29 to 30 for consistency. They also resized the icon to match the text box size, setting both to 30. The elements were aligned and positioned to the left, with spacing adjusted for a compact layout. Later, the icon size was reduced to 24 to better match the text appearance.",
+    "rationale": "The decision to use rounded numbers like 30 for the text box and icon size was made to facilitate development and ensure consistency. Aligning elements to the left and adjusting spacing aimed to enhance user recognition by placing elements where users typically expect them.",
+    "progression": "Initially, the designer focused on adding and sizing the logo and text box for consistency. After aligning and positioning these elements, they reassessed the icon size, reducing it to 24 to ensure visual harmony with the text, thus refining the overall layout."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 5,
+    "decision_and_actions": "The designer created a text element labeled '대표 상품' to display featured products. The font size was increased from 24 to 40 to make it more prominent. Additionally, a descriptive text was added below with a font size of 16. Both text elements were aligned to the grid and set in bold to enhance visibility.",
+    "rationale": "The decision to increase the font size and use bold text was made to ensure that the featured product section stands out and is easily noticeable to users. Aligning the text to the grid helps maintain a clean and organized layout, which aids in user navigation and comprehension.",
+    "progression": "Initially, the designer added the '대표 상품' text and adjusted its size for emphasis. Following this, a descriptive text was added to provide context about the featured products. Both elements were then aligned to the grid and styled in bold, ensuring consistency and visual hierarchy in the design."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 6,
+    "decision_and_actions": "The designer created a new text component labeled '대표 상품' within a frame. The height of the frame was initially increased from 277 to 335, then adjusted back to 277. The text component was moved within the frame, changing its x and y coordinates to position it appropriately.",
+    "rationale": "The inclusion of the product title '대표 상품' aims to clearly highlight the product for users, ensuring easy recognition and emphasis. Adjusting the frame's height and positioning the text component ensures that the layout is visually balanced and aligns with the overall design grid.",
+    "progression": "The design process progressed by first creating the text component to represent the product. The designer then adjusted the frame's dimensions to accommodate the text, ensuring it fits well within the layout. Finally, the text was repositioned to achieve a balanced and visually appealing arrangement, maintaining consistency with previous design decisions."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 7,
+    "decision_and_actions": "The designer decided to hide the grid to create a more intuitive design environment. They moved the product card text frame to a new position, adjusting its x and y coordinates from (703, 272) to (499, 524).",
+    "rationale": "",
+    "progression": "Initially, the grid was visible, providing a structured layout. By hiding the grid, the designer shifted to a more freeform approach, allowing for adjustments in the placement of elements, such as the product card text, to enhance the overall design aesthetics."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 8,
+    "decision_and_actions": "The designer decided to adjust the size and position of the product image within the grid system. They created a group for the image and related elements, then adjusted the width and height of the image to 285 pixels to fit within the 12-column grid system. The position of the group was also modified to align properly within the layout.",
+    "rationale": "The rationale behind these adjustments was to ensure that the product image and its associated elements fit neatly within the established grid system, maintaining a consistent and organized layout. By adhering to the 12-column grid, the designer aimed to achieve a balanced and visually appealing design.",
+    "progression": "Initially, the designer brought in the product image and created a group for it. They then enabled the grid to determine the appropriate size for the image, adjusting it to 285 pixels to fit within the grid columns. The position of the group was fine-tuned to ensure alignment with the overall design, allowing for further adjustments as needed to maintain consistency."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 9,
+    "decision_and_actions": "The designer created a text element labeled '대표 상품' and adjusted its width from 285 to 158, moving it horizontally from position 360 to 487. The text was then renamed to '가격' and its width was further reduced to 85, moving it to position 560. The font size of both '가격' and '대표 상품' was decreased from 40 to 18, and their height was adjusted from 48 to 22.",
+    "rationale": "",
+    "progression": "Initially, the designer focused on creating and positioning the text elements. By adjusting the size and position, they ensured that the layout was balanced and the elements were aligned properly. The reduction in font size and height further refined the design, contributing to a cohesive and streamlined interface."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 10,
+    "decision_and_actions": "The designer decided to include the product rating alongside the price. They changed the text element's name and characters from '대표 상품' to '평점' to reflect this decision. This involved updating the text properties within the design frame.",
+    "rationale": "The rationale behind including the rating with the price is to enhance user experience by allowing users to quickly assess the product's quality or reliability. This decision aligns with previous choices to ensure text visibility and clarity, helping users easily recognize and emphasize product information.",
+    "progression": "The design process progressed by logically adding elements that provide users with essential product information at a glance. By incorporating ratings, the designer ensured that users could make informed decisions quickly, thereby improving the overall interface usability and coherence."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 11,
+    "decision_and_actions": "The designer created a text element labeled '대표 상품' within a frame. This text was initially positioned at coordinates (360, 782) and later adjusted to (360, 810) to better fit the layout.",
+    "rationale": "By inserting a placeholder product name, the designer aimed to establish a flexible foundation for the design. This approach allows for easy adjustments as the design evolves, ensuring that the layout can accommodate real product names and other elements seamlessly.",
+    "progression": "The design process progressed by first establishing a basic structure with placeholder text. This step provided a visual reference for further design elements, such as price and ratings, to be integrated smoothly, maintaining consistency and balance in the overall layout."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 12,
+    "decision_and_actions": "The designer adjusted the layout by moving the price text below the product name to accommodate longer product names and prices. The font size of the product name was increased to 22 to make it more prominent. The price was formatted to show the original and discounted prices, emphasizing the discount by separating it into a different style. The rating was also copied and displayed alongside the product details. All these elements were grouped together using a 'hug' layout to maintain alignment and spacing.",
+    "rationale": "The rationale behind these decisions was to enhance the visual clarity and emphasis on key product details. By increasing the font size of the product name, it becomes more noticeable, which is crucial for user engagement. Placing the price below the product name allows for better readability, especially for longer text. Highlighting the discount separately draws attention to promotional offers, which can influence purchasing decisions. Grouping elements ensures a clean and organized presentation.",
+    "progression": "The design process progressed logically by first addressing the layout to accommodate varying text lengths. The designer then focused on visual hierarchy by adjusting font sizes and emphasizing important information like discounts. Finally, the elements were grouped to ensure consistent alignment and spacing, resulting in a cohesive and visually appealing product display."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 13,
+    "decision_and_actions": "The designer decided to address the language settings of the web interface, ensuring that both English and Korean are available. This involved checking the current language settings and preparing to implement a language toggle feature.",
+    "rationale": "",
+    "progression": "By focusing on the language settings, the designer set the stage for a more inclusive design that caters to a broader audience. This decision logically progresses towards enhancing user experience by making the interface accessible to speakers of different languages, which is a fundamental aspect of user-centered design."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 14,
+    "decision_and_actions": "The designer decided to visually differentiate the original price from the discounted price by adding a strikethrough to the original price. This was done to clearly indicate that the original price is no longer applicable and to highlight the final discounted price. The action involved modifying the text properties of the price element, ensuring the original price was struck through while maintaining the visibility of the discounted price.",
+    "rationale": "The rationale behind this decision was to enhance clarity for the user by clearly showing that the original price is not the current price. By striking through the original price, it becomes immediately apparent to the user that they are receiving a discount, which can be a persuasive factor in purchasing decisions.",
+    "progression": "The design process progressed by first identifying the need to differentiate the prices. The designer then implemented a strikethrough on the original price, ensuring that the discounted price was prominently displayed. This step logically followed the initial setup of the product title and price, moving towards a more user-friendly and informative display."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 15,
+    "decision_and_actions": "The designer decided to reposition the '31% 할인' (31% discount) text above the product image to emphasize the discount information. The text was moved from its original position (x: 91, y: 0) to a new position (x: 693, y: 639) within the frame. Additionally, the designer separated the review information into a distinct text element, creating a new text frame for the review count and rating, and adjusted the layout to ensure clarity and readability.",
+    "rationale": "The rationale behind these decisions was to highlight the discount information prominently, as it is a crucial aspect of e-commerce design that can attract customer attention. By placing the discount information above the product, it becomes immediately visible to potential buyers. Separating the review information into a distinct element allows for better organization and readability, making it easier for users to assess product quality at a glance.",
+    "progression": "Initially, the discount text was repositioned to be more visible above the product image. Following this, the designer focused on the review information, creating a new text element for the review count and rating. This involved adjusting the text properties and grouping related elements to maintain a clean and organized layout. These steps ensured that both the discount and review information were effectively communicated to the user, enhancing the overall user experience."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 16,
+    "decision_and_actions": "The designer adjusted the line height of the price text from 'AUTO' to '150%' to create more space and improve readability. Additionally, the height of the text and surrounding frames was increased to accommodate this change, ensuring the layout remains balanced.",
+    "rationale": "",
+    "progression": "By increasing the line height and adjusting the frame sizes, the designer ensured that the text remains clear and visually appealing. This step logically follows previous adjustments to text alignment and spacing, maintaining consistency and enhancing the overall user experience."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 17,
+    "decision_and_actions": "The designer changed the display of the review count from '리뷰 314개' to '(314)' and adjusted the width of the text element from 84 to 45. Additionally, the width of the containing frame was reduced from 141 to 102.",
+    "rationale": "The decision to modify the review count display and remove the '중고' option was to make the review information more easily recognizable to users. By simplifying the text and removing unnecessary elements, the interface becomes cleaner and more user-friendly.",
+    "progression": "The design process progressed by focusing on enhancing user experience through simplification. By adjusting the text and frame properties, the designer ensured that the review information is concise and visually aligned, contributing to a more streamlined and effective interface."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 18,
+    "decision_and_actions": "The designer reduced the item spacing from 9 to 4 and adjusted the width from 102 to 97 for the frame containing text elements. Additionally, the x-position of a text element was shifted from 57 to 52. These changes were made to create a more compact and visually appealing layout.",
+    "rationale": "The rationale behind reducing the spacing and adjusting the text size was to maintain design consistency and achieve a cleaner layout. By making these adjustments, the designer aimed to enhance the visual clarity and alignment of the elements, ensuring that the design is both aesthetically pleasing and functionally effective.",
+    "progression": "The design process progressed logically by first addressing the spacing and alignment issues, which are fundamental to achieving a cohesive layout. By refining these elements, the designer ensured that the interface would be more intuitive and visually balanced, aligning with the overall goal of improving user experience and design consistency."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 19,
+    "decision_and_actions": "The designer adjusted the color of a text element with the ID '6004:194'. The color was changed from solid black (RGB: 0, 0, 0) to a lighter gray (RGB: approximately 0.303, 0.303, 0.303). This change was applied to maintain visual consistency across the design.",
+    "rationale": "The color adjustment was likely made to enhance the overall design consistency and improve visual clarity. By using a lighter gray instead of black, the text can appear less harsh and more integrated with the rest of the design elements, contributing to a more cohesive look.",
+    "progression": "This decision to adjust the text color followed previous steps where the designer made changes to spacing and alignment. By refining the color, the designer ensured that the text not only aligned well but also visually matched the overall aesthetic, thereby enhancing the interface's readability and appeal."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 20,
+    "decision_and_actions": "The designer decided to change the text alignment from right-aligned to center-aligned. This involved selecting the text elements that were previously aligned to the right and adjusting their properties to be center-aligned. This action was taken to ensure a more visually balanced and clean layout.",
+    "rationale": "The rationale behind changing the text alignment to center-aligned was to achieve a visually cleaner and more balanced layout. Center alignment can often provide a sense of symmetry and order, which can enhance the overall aesthetic appeal of the design. The designer likely aimed to improve the visual clarity and balance of the interface by making this adjustment.",
+    "progression": "The design process progressed logically from identifying the need for a cleaner layout to implementing a change in text alignment. By moving from right-aligned to center-aligned text, the designer addressed the visual imbalance and enhanced the overall aesthetic of the design. This decision followed previous instances where text alignment was adjusted to improve user perception and ease of development, indicating a consistent approach to refining the interface's visual presentation."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 21,
+    "decision_and_actions": "The designer adjusted the font size of a text element from 18 to 16. Additionally, the width and height of the text element were reduced from 45 to 40 and from 22 to 19, respectively. These changes were applied to the text element with ID '6004:194' within 'Frame 7'.",
+    "rationale": "The decision to reduce the font size was made to enhance user perception and ease of development. By making the text slightly smaller, the designer aimed to improve readability and ensure a more consistent and visually appealing layout. This approach aligns with previous decisions where text size adjustments were made for similar reasons.",
+    "progression": "The design process progressed logically by focusing on optimizing text elements for better user experience. By adjusting the font size and dimensions, the designer ensured that the text fits well within the layout, maintaining a clean and organized appearance. This step followed previous adjustments, contributing to a cohesive design strategy."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 22,
+    "decision_and_actions": "The designer decided to place the image within a frame to facilitate easier replacement and to avoid complications during development. This involved creating a new group within the existing frame and adjusting the frame's height from 117 to 411 to accommodate the image.",
+    "rationale": "By embedding the image within a frame, the designer aimed to streamline the process of swapping images in the future, which is crucial for maintaining flexibility in design updates. Additionally, this approach minimizes potential development challenges by ensuring that the image is properly contained and managed within the design structure.",
+    "progression": "The design process progressed by first identifying the need to integrate the image into the frame. The designer then executed this by creating a new group within the frame and adjusting the frame's dimensions to fit the image. This step ensured that the design remained organized and adaptable for future changes."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 23,
+    "decision_and_actions": "The designer decided to add a stroke to the image component to enhance its appearance. Specifically, a solid black stroke was applied to the image, giving it a clean and defined look. This action involved updating the stroke property of the image component in the design tool.",
+    "rationale": "The rationale behind adding the stroke was to create a clean and polished aesthetic for the web interface. The designer aimed to align the image's appearance with the overall website's neat and orderly theme. By adding a stroke, the designer intended to provide a subtle yet effective visual boundary that enhances the image's presence on the page.",
+    "progression": "This decision progressed the design by refining the visual elements of the web interface. By applying a stroke to the image, the designer ensured that the component stood out while maintaining a cohesive look with the rest of the design. This step contributed to the overall goal of achieving a clean and professional appearance for the website."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 24,
+    "decision_and_actions": "The designer adjusted the corner radius of two rectangles, setting all corners to a radius of 8. Additionally, a drop shadow effect was added to the group containing these rectangles, with a radius of 12, an offset of (0, 4), and a color with low opacity for subtlety.",
+    "rationale": "The adjustments to the corner radius and the addition of a shadow were made to enhance the visual clarity and consistency of the design. The rounded corners provide a softer, more modern look, while the shadow adds depth, making the elements stand out without overwhelming the design.",
+    "progression": "By setting the corner radius and adding a shadow, the designer ensured that the visual elements were cohesive and aligned with the overall aesthetic. These changes contributed to a cleaner and more polished interface, allowing the design to progress towards a more professional and visually appealing outcome."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 25,
+    "decision_and_actions": "The designer decided to adjust the font size of the text 'QuietWave 무선 헤드폰 Z300' from 22 to 20. Additionally, the width of the text box was reduced from 276 to 251, and the height from 26 to 24. The vertical position of related frames was also slightly adjusted to maintain alignment.",
+    "rationale": "The font size reduction was aimed at improving user perception and readability, ensuring the text appears more balanced within the design. The adjustments in width and height were necessary to accommodate the new font size while maintaining a clean and organized layout.",
+    "progression": "By reducing the font size and adjusting the dimensions of the text box, the designer ensured that the text was more visually appealing and better integrated into the overall design. These changes contributed to a more cohesive and user-friendly interface."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 26,
+    "decision_and_actions": "The designer adjusted the spacing between elements from 9 to 12 and then compressed the text box spacing to 4. This involved changing the item spacing and adjusting the height of frames and text positions to ensure alignment and consistency.",
+    "rationale": "The designer aimed to use even numbers for spacing to enhance the design's adaptability during development. Using multiples of 4 was preferred to maintain consistency and ease of implementation.",
+    "progression": "By adjusting the spacing to even numbers, the designer ensured a more uniform and structured layout. This change facilitated a cleaner design that aligns well with development practices, allowing for easier scaling and maintenance."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 27,
+    "decision_and_actions": "The designer created a component from a simple product element. This involved grouping related text and frames into a single component, allowing for easier management and replication. The designer used the 'CREATE_GROUP' action to organize elements and then converted them into a component for future use.",
+    "rationale": "The decision to create a component was driven by the need for easier modifications in the future. By making the product element a component, any changes can be applied universally across all instances, ensuring consistency and saving time during redesigns.",
+    "progression": "Initially, the designer grouped related elements, such as text and frames, into a cohesive unit. This grouping was then transformed into a component, which can be easily duplicated and modified. This step streamlined the design process, allowing for efficient updates and consistent design application across the project."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 28,
+    "decision_and_actions": "The designer decided to duplicate a component three times to create a consistent layout. They right-clicked on the component, selected the copy option, and pasted it twice to have three identical instances. The components were then aligned horizontally with equal spacing.",
+    "rationale": "The decision to duplicate the component was made to maintain visual consistency across the interface. By using identical components, the designer ensured that users could easily recognize and interact with the interface elements, enhancing usability and coherence.",
+    "progression": "Initially, a single component was present. The designer duplicated it to create a uniform row of three components. This action was followed by adjusting the horizontal position of each component to ensure equal spacing, resulting in a balanced and organized layout."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 29,
+    "decision_and_actions": "The designer adjusted the layout grid to ensure that the products are evenly spaced. They made the grid visible and set it to 12 columns with a gutter size of 20. The designer then repositioned the product frames to align with the grid, ensuring equal spacing between them.",
+    "rationale": "The decision to use a grid system and evenly space the products was made to maintain visual consistency and help users easily perceive the information. By aligning the products with the grid, the designer aimed to create a balanced and organized layout.",
+    "progression": "Initially, the grid was made visible to guide the placement of elements. The designer then adjusted the positions of the product frames to align with the grid, ensuring consistent spacing. This step followed the previous decision to use a grid system for uniform content distribution, enhancing the overall design coherence."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 30,
+    "decision_and_actions": "The designer reframed the product listings and applied auto-alignment to ensure consistency across the design. This involved deleting a text node within a frame to streamline the layout and maintain uniformity.",
+    "rationale": "The decision to reframe and auto-align the elements was made to maintain design consistency and facilitate future adjustments. By aligning the product images and text to a grid system, the designer ensured that the layout remains organized and visually appealing.",
+    "progression": "After reframing and aligning the elements, the designer was able to create a consistent and cohesive product display. This step logically followed the previous decision to adjust image sizes to fit the grid system, reinforcing the overall design consistency and allowing for easier modifications in the future."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 31,
+    "decision_and_actions": "The designer decided to change the product images within a component-based design framework. They attempted to replace images with bitmaps to maintain the integrity of the component structure. Actions included creating a new group and adjusting the width of a frame from 1200 to 1460, as well as repositioning instances within the frame.",
+    "rationale": "The rationale behind using components was to facilitate easier future modifications. By changing images to bitmaps, the designer aimed to simplify the process of image replacement while preserving the component-based design, ensuring consistency and efficiency in updates.",
+    "progression": "The design process progressed by first establishing a component structure, which allowed for streamlined changes. The designer's actions, such as grouping and resizing, were logical steps to accommodate new images while maintaining the layout's coherence. This approach ensured that the design remained flexible and adaptable to future changes."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 32,
+    "decision_and_actions": "The designer attempted to change an image within a frame but encountered an issue. They adjusted the width of 'Frame 9' from 1460 to 1200 and repositioned 'Frame 7' and 'Frame 8' by changing their x-coordinates. Additionally, 'Group 4' was deleted.",
+    "rationale": "The designer's intention was to ensure that images are properly placed within frames to facilitate easy modifications. The adjustments in size and position were likely aimed at aligning the elements with a grid system, ensuring consistency and visual harmony.",
+    "progression": "The design process involved resizing and repositioning frames to fit within a structured layout. The deletion of 'Group 4' suggests a simplification or reorganization of the design elements to resolve the issue of image modification. This step was crucial for maintaining a clean and functional design interface."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 33,
+    "decision_and_actions": "The designer double-clicked to enter a frame within Figma, which allowed them to manipulate the contents inside the frame. This action involved creating new groups and deleting existing instances within the frame structure.",
+    "rationale": "",
+    "progression": "By double-clicking to enter the frame, the designer was able to transition from a high-level view to a more detailed editing mode. This allowed for the creation of new groups and the removal of outdated instances, facilitating a more organized and updated design layout."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 34,
+    "decision_and_actions": "The designer repositioned product elements within a frame to ensure they are evenly distributed. This involved changing the parent frame of certain elements and adjusting their x and y coordinates to align them properly. Additionally, the height of some frames was increased to accommodate the new layout, and a new rectangle was created to maintain visual balance.",
+    "rationale": "The decision to reposition the products was made to maintain visual consistency and ensure that users can easily perceive the information. By evenly distributing the products, the designer aimed to create a more organized and aesthetically pleasing layout, which enhances user experience by making the interface more intuitive and easier to navigate.",
+    "progression": "Initially, the designer adjusted the positions of existing elements by changing their parent frames and coordinates. This was followed by increasing the height of certain frames to fit the new arrangement. Finally, a new rectangle was added to fill any gaps and maintain the overall balance of the design, resulting in a cohesive and visually appealing product display."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 35,
+    "decision_and_actions": "The designer changed the name and text of a product from 'QuietWave 무선 헤드폰 Z300' to '노트북' in the product listing. This involved updating the text properties of the product item within the frame to ensure consistency in the display of product names.",
+    "rationale": "",
+    "progression": "The design process progressed by focusing on maintaining a consistent and clear presentation of product information. By updating the product name, the designer ensured that each product is easily identifiable, contributing to a cohesive and user-friendly interface. This step aligns with previous decisions to ensure uniform spacing and alignment for visual consistency."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 36,
+    "decision_and_actions": "The designer placed the '친구' element inside the previously selected frame and adjusted the spacing within the frame to maintain a consistent gap of 20 units. This involved changing the parent property of the 'Group 3' element to 'Group 2' and adjusting its x and y coordinates to fit within the new frame layout.",
+    "rationale": "",
+    "progression": "By adjusting the frame dimensions and spacing, the designer ensured that all elements were aligned and evenly distributed. This step logically followed the initial setup of the frame, allowing for a structured and visually appealing arrangement of elements, which was further refined by adjusting the item spacing and frame height in subsequent actions."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 37,
+    "decision_and_actions": "The designer duplicated the existing product array to create a new group within the frame. They adjusted the spacing between the products to maintain visual consistency. The height of the frame was increased from 799 to 1321 to accommodate the new arrangement.",
+    "rationale": "The duplication and spacing adjustment were done to ensure visual consistency and make it easier for users to recognize and process the information. By maintaining uniform spacing, the design becomes more organized and user-friendly.",
+    "progression": "The design process progressed by expanding the frame to fit the duplicated product array, ensuring that the layout remains consistent and visually appealing. This step logically followed the need to display more products while keeping the interface clean and organized."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 38,
+    "decision_and_actions": "The designer focused on adjusting the position and design of a key component to align with the brand's atmosphere. Specifically, they modified the text component within a product display frame, ensuring the text color remained consistent with the brand's style.",
+    "rationale": "The rationale behind these adjustments was to ensure that the design elements harmonize with the overall brand identity, creating a cohesive and visually appealing interface. By focusing on the main component, the designer aimed to establish a strong foundation for the rest of the design.",
+    "progression": "The design process progressed by first identifying the main component that required modification. The designer then made specific changes to the text properties, maintaining consistency in color and style. This step set the stage for further refinements and ensured that the design aligned with the brand's visual language."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 39,
+    "decision_and_actions": "The designer reviewed the text component labeled 'QuietWave 무선 헤드폰 Z300' within a product display frame. The action log indicates that the text's fill color was checked, but no changes were made to its properties, as the old and new values for the fill color remained the same (solid black).",
+    "rationale": "The designer likely reviewed the text component to ensure consistency and alignment with the overall design theme. By confirming the fill color, the designer ensured that the text maintained its intended visibility and contrast against the background, which is crucial for readability and aesthetic coherence.",
+    "progression": "This step was part of a broader process to refine and verify the design elements of the product display. By confirming the text properties, the designer ensured that the visual presentation of the product information was clear and aligned with the brand's style, allowing for a cohesive and polished interface."
+  },
+  {
+    "participant_id": "P04",
+    "task_type": "shopping_site",
+    "step_index": 40,
+    "decision_and_actions": "The designer increased the height of the frame 'Plugin / file cover - 1' from 1080 to 1148. This adjustment was made to accommodate additional content or to improve the layout's visual balance.",
+    "rationale": "The decision to increase the frame height was likely made to ensure that important information is easily noticeable and accessible to users. By expanding the frame, the designer aimed to emphasize key content, making it more prominent and easier for users to engage with.",
+    "progression": "By adjusting the frame height, the designer enhanced the layout's ability to display content effectively. This change allowed for a more spacious arrangement, which likely improved the overall user experience by making important elements more visible and reducing clutter."
+  }
+]

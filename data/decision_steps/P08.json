@@ -1,0 +1,242 @@
+[
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 0,
+    "decision_and_actions": "The designer created a new frame in Figma, labeled 'MacBook Pro 14\" - 1', to begin designing the HCI lab's website. This frame was set to the dimensions of a MacBook Pro 14-inch screen.",
+    "rationale": "The decision to use a MacBook Pro 14-inch frame was based on its common usage and the designer's personal convenience, as they were using a MacBook of the same size. This choice facilitates the design process and ensures compatibility with a widely used screen size. Additionally, the designer plans to adapt the design for responsive layouts in the future.",
+    "progression": "By establishing a frame based on a standard screen size, the designer set a foundational layout for the website. This initial step allows for a structured approach to designing the interface, with the flexibility to later adjust for different devices and screen sizes through responsive design techniques."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 1,
+    "decision_and_actions": "The designer created a rectangle to serve as the initial layout for the menu bar, setting its height to 80 pixels. This rectangle was initially colored gray to help visualize the layout, although the color is intended to be changed later. The width of the rectangle was adjusted to fit the frame, ensuring it spans the entire width of the design.",
+    "rationale": "",
+    "progression": "By establishing a clear layout for the menu bar, the designer set a foundational element of the website's interface. This decision allows for further refinement and customization of the menu bar's appearance and functionality as the design process continues, ensuring it aligns with the overall design objectives."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 2,
+    "decision_and_actions": "The designer decided to place a placeholder text 'PI Lab' in the top-left corner of the menu bar instead of a logo. This involved creating a text element within the frame and setting its content to 'PI Lab'.",
+    "rationale": "The decision to use text instead of a logo was due to the absence of a finalized lab logo. The designer emphasized the importance of visual elements in design and planned to replace the text with the actual logo once it becomes available.",
+    "progression": "By adding the placeholder text, the designer ensured that the layout could be visualized and adjusted accordingly. This step allowed the design to progress with a temporary solution, maintaining the overall structure until the final logo is ready."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 3,
+    "decision_and_actions": "The designer reduced the font size of the 'PI Lab' text from 64 to 35. Initially, the font size was adjusted to 40, but it was further reduced to 35 for better visual balance. Additionally, the font style was changed to bold to enhance visibility and establish a visual hierarchy.",
+    "rationale": "The original font size of 64 was deemed too large, creating a cramped appearance within the 80-pixel high menu bar. The designer chose 35 as it appeared visually pleasing and balanced within the layout. The bold style was applied to make the text more noticeable and to convey a sense of importance, although the text is intended to be replaced by an image later.",
+    "progression": "The design process progressed by first adjusting the font size to ensure it fit well within the menu bar's dimensions, then enhancing the text's prominence with a bold style. These changes were made to improve the overall aesthetic and functionality of the menu bar, setting a foundation for future updates where the text will be replaced by an image."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 4,
+    "decision_and_actions": "The designer adjusted the padding for the 'PI Lab' text in the menu bar by setting the x-value to 135, ensuring equal padding on both the left and right sides.",
+    "rationale": "The designer wanted to avoid a cramped appearance by ensuring the text was not too close to the left edge, which could make the design feel constrained.",
+    "progression": "Initially, the x-value was adjusted multiple times, from 141 to 114, then to 105, and finally settled at 135. This iterative adjustment ensured the text was positioned with balanced padding, enhancing the overall layout's visual appeal."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 5,
+    "decision_and_actions": "The designer adjusted the font size of the menu item 'About' from 35 to 27 and changed the font style from Bold to Regular. Additionally, the width and height of the text element were modified to accommodate the new font size and style.",
+    "rationale": "The designer aimed to establish a visual hierarchy where the menu items are less prominent than the main title. By reducing the font size and removing the bold style, the menu items appear subordinate to the main heading, aligning with the intended design structure.",
+    "progression": "Initially, the menu item 'About' had a larger font size and bold style, which made it too prominent. The designer's adjustments resulted in a more balanced and visually coherent menu bar, with the menu items appropriately sized and styled to fit their role in the navigation hierarchy."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 6,
+    "decision_and_actions": "The designer decided to duplicate the existing menu item labeled 'About' to create additional menu items labeled 'People' and 'Publication'. This involved copying the text element and changing its properties, such as the name and characters, to reflect the new labels. The width of the text elements was adjusted to accommodate the new text length.",
+    "rationale": "",
+    "progression": "Initially, the menu contained only the 'About' item. By duplicating this item, the designer efficiently expanded the menu to include 'People' and 'Publication'. This approach allowed for a consistent style and layout across the menu items, ensuring a cohesive design while saving time."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 7,
+    "decision_and_actions": "The designer adjusted the position of the menu items 'About', 'People', and 'Publication' by eye, moving them to the right to align visually. The 'x' positions of these items were changed incrementally to achieve a balanced look.",
+    "rationale": "The designer chose to adjust the menu items by eye because the design was still in the layout phase. At this stage, precise numerical adjustments were deemed unnecessary. The focus was on achieving a visually acceptable arrangement quickly, with plans to refine the spacing using exact padding values later.",
+    "progression": "Initially, the designer moved the menu items to approximate their positions visually. This step was part of establishing a basic layout. The designer planned to revisit these adjustments later, using precise padding values or guides to ensure exact alignment and spacing, thus transitioning from a rough layout to a more polished design."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 8,
+    "decision_and_actions": "The designer decided to use a pre-made banner for the web interface. They inserted the banner into the design by creating a new rectangle element within the existing frame structure. This action was logged as a 'CREATE' event for the rectangle, which was named 'image 1'.",
+    "rationale": "The decision to use a pre-made banner was likely driven by the need to save time and resources. By utilizing an existing design element, the designer could efficiently incorporate a visually appealing component without the need for additional design work.",
+    "progression": "The design process progressed by integrating the pre-made banner into the layout, ensuring it fit within the existing frame structure. This step streamlined the design workflow, allowing the designer to focus on other aspects of the interface while maintaining a cohesive visual style."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 9,
+    "decision_and_actions": "The designer adjusted the banner to fill the screen width by setting its length equal to the screen size. They also changed the banner's color to a darker shade to differentiate it from the menu bar. The banner was positioned to align with the menu bar and occupy about half of the screen height.",
+    "rationale": "The designer wanted the banner to be prominent and visually distinct from the menu bar. By matching the screen width, the banner creates a full-width effect, enhancing its visual impact. The darker color helps in clearly separating the banner from the menu bar, ensuring that the layout is easily navigable.",
+    "progression": "Initially, the banner was adjusted to fit the screen width and positioned to align with the menu bar. The color change was implemented to ensure visual separation from the menu bar. These steps were taken to create a clear and organized layout, with the banner occupying a significant portion of the screen for emphasis."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 10,
+    "decision_and_actions": "The designer decided to include a detailed introduction of the lab on the webpage. This involved creating a new text element that describes the lab's focus, research areas, and opportunities for collaboration. The text was added to the banner section, which is the first thing users see when they visit the page.",
+    "rationale": "The rationale behind including the lab introduction in the banner is to ensure that the most important information is immediately visible to users. The designer believes that the banner is the first point of contact for users, and it should convey key information about the lab's mission and opportunities.",
+    "progression": "By adding the lab introduction to the banner, the designer ensured that users are greeted with essential information as soon as they land on the page. This decision helps in setting the context and engaging users right from the start, aligning with the goal of making the interface informative and welcoming."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 11,
+    "decision_and_actions": "The designer decided to emphasize the lab's name in the banner by changing the text to 'Pinewood Interaction Lab' and increasing its font size from 12 to 30. The width of the text box was adjusted from 191 to 477 to accommodate the larger text, and the height was increased from 15 to 36.",
+    "rationale": "The designer wanted the lab's name to stand out prominently in the banner, ensuring it catches the viewer's attention immediately. This emphasis helps in clearly identifying the purpose and focus of the webpage.",
+    "progression": "Initially, the text was set with a smaller font size and width. By increasing these dimensions, the designer made the lab's name more visible and central to the banner, aligning with the goal of making it a focal point of the design."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 12,
+    "decision_and_actions": "The designer placed the name of the lab on the left side of the banner and increased the font size from 30 to 32. Initially, the font style was changed to bold to emphasize the importance of the information. However, finding the bold style too heavy, the designer adjusted it to semi-bold.",
+    "rationale": "The font size was increased to make the lab name more prominent and readable. The initial choice of bold was to highlight the importance of the lab name, but it was adjusted to semi-bold to maintain readability and aesthetic balance.",
+    "progression": "The design process began with positioning the lab name prominently on the banner. Adjustments to the font size and style were made to ensure the text was both noticeable and visually appealing, leading to a final choice of a slightly larger, semi-bold font."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 13,
+    "decision_and_actions": "The designer added a text element below the lab's name in the banner to introduce the lab. The text was created with the content: 'We design the future of human-AI interaction to make intelligent systems more usable, fair, and human-centered.' The text element's width was set to 1139 and height to 78.",
+    "rationale": "The introduction was added to ensure that users visiting the page for the first time can immediately see the most important information about the lab. This helps in quickly conveying the lab's purpose and focus areas to the audience.",
+    "progression": "After placing the lab's name on the banner, the designer logically progressed to adding an introductory text. This step was crucial to provide context and clarity about the lab's mission, enhancing the user's understanding and engagement with the page."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 14,
+    "decision_and_actions": "The designer decided to expand the layout area at the bottom of the page by adding a new rectangle. This rectangle was initially created and then resized to cover a larger portion of the screen, similar to the approach used for the top navigation bar. The rectangle was moved to align with the existing layout and resized to a width of 1512 and a height of 476.",
+    "rationale": "The designer aimed to create a dedicated space for displaying lab news, as the lab introduction was already included in the banner. By expanding the layout area, the designer intended to provide a clear and distinct section for users to view current events and updates related to the lab.",
+    "progression": "The design process progressed by first establishing a placeholder for the new content area using a rectangle. This was followed by adjusting its size and position to ensure it fit well within the overall layout. The decision to focus on lab news instead of repeating the introduction allowed the designer to enhance the page's informational value and maintain a clean, organized structure."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 15,
+    "decision_and_actions": "The designer adjusted the vertical alignment of the text elements 'Pinewood Interaction Lab' and its description within the banner. Specifically, the 'y' position of the lab title was changed from 142 to 187, and the description text was moved from 198 to 243, ensuring both elements are centrally aligned within the banner frame.",
+    "rationale": "The designer aimed to enhance the visual stability and balance of the banner by ensuring that the text elements are centrally aligned. This adjustment was intended to create a more aesthetically pleasing and professional appearance, contributing to the overall design's sense of stability.",
+    "progression": "By aligning the text elements centrally, the designer established a consistent and balanced layout for the banner. This decision set a foundation for further design elements, ensuring that the banner's visual hierarchy is clear and cohesive, which is crucial for maintaining design uniformity across the web interface."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 16,
+    "decision_and_actions": "The designer added a text element labeled 'NEWS' to the center of the news section. The font size was set to 32 to maintain design consistency with the lab banner, where the lab name was also set to 32.",
+    "rationale": "The decision to use a font size of 32 for the 'NEWS' label was made to ensure design uniformity across the interface. By matching the font size with the lab banner, the designer aimed to create a cohesive visual experience.",
+    "progression": "After establishing the layout for the news section, the designer focused on maintaining consistency with existing design elements. By aligning the font size of the 'NEWS' label with the lab banner, the designer ensured a seamless transition between different sections of the interface."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 17,
+    "decision_and_actions": "The designer adjusted the letter spacing of the 'NEWS' text from 0% to 20% to alleviate a cramped appearance. Initially, the spacing was set to 30%, but it was deemed too wide, so it was reduced to 20%. Additionally, the width of the text was increased from 96 to 116 units to accommodate the new spacing.",
+    "rationale": "The adjustment in letter spacing was made to prevent the text from appearing visually cramped, enhancing readability and aesthetic appeal. This decision aligns with previous efforts to avoid a cluttered look, such as adding padding to the menu bar.",
+    "progression": "The design process progressed by first identifying the cramped appearance of the text, experimenting with different spacing values, and settling on a visually pleasing 20% spacing. This change was part of a broader effort to maintain a clean and balanced design throughout the interface."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 18,
+    "decision_and_actions": "The designer adjusted the letter spacing of the 'NEWS' title from 20% to 15% and slightly reduced its width from 116 to 111 units. This change was made to enhance the visual balance and readability of the title.",
+    "rationale": "The designer felt that the original 20% letter spacing was too wide, which could detract from the title's readability and visual appeal. By reducing the spacing to 15%, the designer aimed to create a more cohesive and visually pleasing appearance, ensuring that the title stands out appropriately as a headline.",
+    "progression": "After evaluating the initial design, the designer identified the need for improved readability and balance in the title's presentation. By adjusting the letter spacing and width, the designer refined the visual hierarchy, making the title more prominent and aligned with the overall design aesthetic."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 19,
+    "decision_and_actions": "The designer decided to enhance the visual indication of the 'NEWS' section by adding dots on either side of the word, changing it from 'NEWS' to '•NEWS•'. This involved updating the text properties, including the name and characters, and adjusting the width from 111 to 152 to accommodate the new design.",
+    "rationale": "The rationale behind this decision was to make the 'NEWS' section appear more like a title. The designer felt that the standalone word 'NEWS' did not sufficiently convey its role as a heading. By adding dots, the designer aimed to clearly indicate that this is a title, enhancing its visual prominence and ensuring it stands out as intended.",
+    "progression": "This decision progressed the design by improving the clarity and visual hierarchy of the webpage. By making the 'NEWS' section more distinct, the designer ensured that users can easily identify it as a title, which contributes to a more organized and user-friendly interface."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 20,
+    "decision_and_actions": "The designer decided to center-align the title '•NEWS•' on the screen. This involved adjusting the x-coordinate of the text element from 698 to 680 to achieve perfect central alignment within the frame.",
+    "rationale": "The rationale behind centering the title was to enhance the visual stability and balance of the design. By placing the title in the center, it becomes more prominent and easily recognizable to users, reinforcing its importance as a headline.",
+    "progression": "By centering the title, the designer ensured that the layout maintained a harmonious and organized appearance. This decision logically followed the need to make the title stand out as a key element, thereby improving user experience by making the interface more intuitive and visually appealing."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 21,
+    "decision_and_actions": "The designer created a rectangle to serve as a thumbnail for news items. Initially, the rectangle was created with arbitrary dimensions, which were then adjusted to a square shape with both width and height set to 180 pixels. The rectangle's fill color was changed to white, and it was aligned to the left with consistent padding applied on both sides.",
+    "rationale": "The decision to use a square shape for the news thumbnails was made to enhance the design's stability and visual balance. Setting the dimensions to 180 pixels was a temporary choice to maintain uniformity across the design. The white fill color was chosen to ensure the thumbnail stands out against the background, and left alignment with padding was applied to maintain consistency with the overall layout.",
+    "progression": "The design process progressed logically by first establishing the basic shape and size of the news thumbnails. Adjusting the dimensions to a square ensured uniformity, while the color change and alignment refined the visual presentation. These steps laid the groundwork for further content addition and layout adjustments in the news section."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 22,
+    "decision_and_actions": "The designer added a text element below the news thumbnail to display the publication date. Initially, a text node was created, and then the text 'Mar, 2025' was added to it. The text's width was adjusted to 58, and the height was set to 15 to fit the content appropriately.",
+    "rationale": "The decision to include the publication date was made to enhance user experience by providing clear and accessible information about when the news was released. This improves the readability and relevance of the news content for users.",
+    "progression": "After establishing the layout for the news section, the designer focused on adding essential information to each news item. By incorporating the publication date, the design progressed towards a more informative and user-friendly interface, ensuring that users can easily understand the timeliness of the news content."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 23,
+    "decision_and_actions": "The designer added a text element below the date to describe the news, specifically 'InterConf 2025 paper accepted.' The font size was set to 15, smaller than the date text, to maintain visual hierarchy. The width of the text was adjusted to fit within the design constraints, ensuring it did not exceed the width of the square element above it. The text was then repositioned to align properly under the date.",
+    "rationale": "The designer aimed to provide a clear and concise description of the news while maintaining a balanced and aesthetically pleasing layout. By choosing a smaller font size for the news description, the designer ensured that the date remained the focal point. Keeping the text width within the square's width helped maintain design stability and avoid visual clutter.",
+    "progression": "Initially, the designer created a new text element for the news description. After setting the content, they adjusted the font size to ensure it was smaller than the date, reinforcing the visual hierarchy. The width was then modified to fit within the design's constraints, and the text was repositioned to align neatly under the date, completing the layout adjustment."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 24,
+    "decision_and_actions": "The designer reduced the font size of the date from 25 to 20 and adjusted the font weight from Regular to Medium. Additionally, the width and height of the text box were adjusted to accommodate these changes, reducing the width from 120 to 96 and the height from 30 to 24.",
+    "rationale": "The adjustments were made to enhance visual stability and ensure that the date information occupies an appropriate position in the visual hierarchy relative to other elements. By reducing the font size and increasing the weight, the date becomes less dominant while still maintaining clarity and emphasis.",
+    "progression": "The design process progressed by first addressing the visual imbalance caused by the oversized date text. By resizing and reweighting the font, the designer achieved a more harmonious layout. This step was crucial in refining the overall appearance and ensuring that the date complements rather than overwhelms the surrounding content."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 25,
+    "decision_and_actions": "The designer decided to change the aspect ratio of the thumbnail from a square to a 4:3 rectangle. They adjusted the width of the rectangle from 180 to 240 to achieve this ratio, while keeping the height at 180. Additionally, they aligned the layout to the left and adjusted the width of the text description to fit the new layout.",
+    "rationale": "The designer felt that the square thumbnails appeared cramped and did not align well with the overall rectangular layout of the website, which is optimized for PC viewing. By changing the aspect ratio to 4:3, the design becomes more visually appealing and consistent with the rest of the site.",
+    "progression": "After adjusting the thumbnail to a 4:3 ratio, the designer aligned the elements to the left to maintain a cohesive layout. This change allowed for a more spacious and organized presentation of the news section, enhancing the overall user experience."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 26,
+    "decision_and_actions": "The designer created a group consisting of a rectangle and text elements, which included a date and a news description. This group was then duplicated to maintain consistency across the design.",
+    "rationale": "By grouping these elements, the designer aimed to ensure design consistency and improve workflow efficiency. This approach allows for easy replication of the component across the interface, similar to previous decisions where elements like 'About', 'People', and 'Publication' were duplicated for convenience.",
+    "progression": "The design process progressed by first grouping the necessary elements into a cohesive component. This component was then duplicated, allowing the designer to efficiently populate the news section of the webpage, ensuring a uniform appearance and saving time in the design process."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 27,
+    "decision_and_actions": "The designer decided to display four news items on a single screen. This involved adjusting the layout to ensure that the news items were evenly spaced. The action log indicates a minor adjustment in the x-coordinate of a group element, suggesting a refinement in the alignment or spacing of the news items.",
+    "rationale": "Displaying four news items was chosen to provide users with a balanced amount of information, avoiding overwhelming them with too much content at once. This decision aims to enhance user experience by maintaining clarity and focus.",
+    "progression": "The design process progressed by first determining the optimal number of news items to display, followed by making precise adjustments to the layout to ensure proper alignment and spacing. This step was crucial in achieving a clean and organized presentation of information."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 28,
+    "decision_and_actions": "The designer decided to use the Auto Layout feature in Figma to adjust the spacing between news items. They grouped the news items into a frame and applied Auto Layout to ensure consistent spacing. This involved creating a new group for the news items and adjusting their x and y coordinates to align them within the frame.",
+    "rationale": "The designer chose Auto Layout to automate the spacing adjustments, which is more efficient than manually aligning each item. This ensures precise and consistent spacing, contributing to a visually balanced and stable design.",
+    "progression": "Initially, the news items were not evenly spaced. By grouping them and applying Auto Layout, the designer achieved uniform spacing, enhancing the overall visual harmony of the design. This step streamlined the layout process and improved the interface's aesthetic appeal."
+  },
+  {
+    "participant_id": "P08",
+    "task_type": "lab_website",
+    "step_index": 29,
+    "decision_and_actions": "The designer finalized the layout of four news frames on the webpage. They adjusted the position of one of the frames slightly by changing its x-coordinate from 135 to 136 and its y-coordinate from 542 to 548 to ensure proper alignment and spacing.",
+    "rationale": "The decision to display four news items on a single screen was made to enhance information accessibility, allowing users to easily view multiple news pieces at once. The slight adjustment in positioning was likely to ensure visual consistency and alignment across the frames.",
+    "progression": "By completing the layout of the four news frames, the designer ensured that the webpage effectively presents multiple news items in a cohesive manner. This step logically follows the initial setup and alignment adjustments, resulting in a user-friendly interface that facilitates easy access to information."
+  }
+]

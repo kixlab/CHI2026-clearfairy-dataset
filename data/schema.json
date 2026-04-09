@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/clearfairy/clearfairy-decision-steps/data/schema.json",
+  "title": "ClearFairy Cognitive Decision Step",
+  "description": "A single inferred cognitive decision step from a designer's Figma session, as released by the ClearFairy dataset.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "participant_id",
+    "task_type",
+    "step_index",
+    "decision_and_actions",
+    "rationale",
+    "progression"
+  ],
+  "properties": {
+    "participant_id": {
+      "type": "string",
+      "description": "Anonymous participant identifier.",
+      "pattern": "^P[0-9]{2}$"
+    },
+    "task_type": {
+      "type": "string",
+      "description": "The design task the participant completed.",
+      "enum": ["lab_website", "shopping_site"]
+    },
+    "step_index": {
+      "type": "integer",
+      "description": "Zero-based ordinal position of the step within the participant's session.",
+      "minimum": 0
+    },
+    "decision_and_actions": {
+      "type": "string",
+      "description": "LLM-generated description of the concrete actions the designer took during this step.",
+      "minLength": 1
+    },
+    "rationale": {
+      "type": "string",
+      "description": "Reasoning behind the decision. Left as an empty string when no sufficiently grounded rationale could be established for the step, even if the designer offered some explanation. Empty in ~17% of records."
+    },
+    "progression": {
+      "type": "string",
+      "description": "LLM-inferred narrative of how this step fits into the broader design progression.",
+      "minLength": 1
+    }
+  }
+}
